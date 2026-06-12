@@ -1,0 +1,57 @@
+{
+  "name": "tripsee",
+  "version": "0.1.0",
+  "private": true,
+  "engines": {
+    "node": ">=18.17.0"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "build-check": "node scripts/build-check.js",
+    "prebuild": "npm run build-check && npm run setup-uploads",
+    "setup-uploads": "node scripts/setup-uploads.js",
+    "analyze": "ANALYZE=true npm run build",
+    "lighthouse": "lighthouse http://localhost:3000 --output=html --output-path=./lighthouse-report.html",
+    "test-mongodb": "node scripts/test-mongodb.js",
+    "migrate-to-mongodb": "node scripts/migrate-to-mongodb.js",
+    "migrate-itineraries": "node scripts/migrate-itineraries-to-mongodb.js",
+    "update-website-apis": "node scripts/update-website-apis.js",
+    "fix-image-alt": "node scripts/fix-image-alt-properties.js",
+    "upload-to-cloudinary": "node scripts/upload-to-cloudinary.js",
+    "clean": "node -e \"['/.next','./out','./build','./dist'].forEach(d=>{try{require('fs').rmSync(d,{recursive:true,force:true});console.log('removed',d)}catch(e){}})\"",
+    "fresh-build": "npm run clean && npm run build",
+    "compress-images": "node scripts/compress-images.js"
+  },
+  "dependencies": {
+    "@heroicons/react": "^2.2.0",
+    "@supabase/supabase-js": "^2.57.4",
+    "@types/jsonwebtoken": "^9.0.10",
+    "@types/multer": "^2.0.0",
+    "cloudinary": "^2.7.0",
+    "dotenv": "^17.2.2",
+    "firebase": "^12.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.19.0",
+    "mongoose": "^8.18.1",
+    "multer": "^2.0.2",
+    "next": "^16.2.4",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "sharp": "^0.34.5"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@types/node": "^22",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.4.15",
+    "eslint": "^9",
+    "eslint-config-next": "15.4.5",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.3",
+    "typescript": "5.9.3"
+  }
+}

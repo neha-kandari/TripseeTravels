@@ -1,0 +1,107 @@
+# ===========================================
+# SUPABASE CONFIGURATION
+# ===========================================
+# Get these values from your Supabase project dashboard
+# https://supabase.com/dashboard/project/[your-project]/settings/api
+
+# Supabase Project URL
+NEXT_PUBLIC_SUPABASE_URL=https://your-project.supabase.co
+
+# Supabase Anonymous Key (Public Key)
+NEXT_PUBLIC_SUPABASE_ANON_KEY=your_anon_key_here
+
+# Supabase Service Role Key (Server-side only - keep secret!)
+SUPABASE_SERVICE_ROLE_KEY=your_service_role_key_here
+
+# ===========================================
+# MONGODB CONFIGURATION
+# ===========================================
+# MongoDB connection string for your database
+MONGODB_URI=mongodb://localhost:27017/tripsee
+# Or for MongoDB Atlas:
+# MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/tripsee
+
+# ===========================================
+# FIREBASE CONFIGURATION
+# ===========================================
+# Firebase configuration for authentication
+FIREBASE_API_KEY=AIzaSyCO6JHAe1O9qpb-dDuKS8K9NMPGYYaqZQU
+FIREBASE_AUTH_DOMAIN=tripsee-849eb.firebaseapp.com
+FIREBASE_PROJECT_ID=tripsee-849eb
+FIREBASE_STORAGE_BUCKET=tripsee-849eb.firebasestorage.app
+FIREBASE_MESSAGING_SENDER_ID=16263885909
+FIREBASE_APP_ID=1:16263885909:web:84bd0e681a2f68bc3550dc
+FIREBASE_MEASUREMENT_ID=G-1FZDZMFXTS
+
+# ===========================================
+# CLOUDINARY CONFIGURATION (Optional)
+# ===========================================
+# Cloudinary configuration for image optimization
+CLOUDINARY_CLOUD_NAME=your_cloud_name
+CLOUDINARY_API_KEY=your_api_key
+CLOUDINARY_API_SECRET=your_api_secret
+
+# ===========================================
+# NEXT.JS CONFIGURATION
+# ===========================================
+# Next.js environment
+NODE_ENV=development
+# For production, change to:
+# NODE_ENV=production
+
+# ===========================================
+# CUSTOM CONFIGURATION
+# ===========================================
+# Custom key for your application
+CUSTOM_KEY=your_custom_key_here
+
+# ===========================================
+# DEVELOPMENT CONFIGURATION
+# ===========================================
+# Enable debug mode (set to false in production)
+DEBUG_MODE=true
+
+# Enable performance monitoring (set to false in production)
+ENABLE_PERFORMANCE_MONITORING=true
+
+# ===========================================
+# SECURITY CONFIGURATION
+# ===========================================
+# JWT Secret for API authentication (generate a strong secret)
+JWT_SECRET=your_jwt_secret_here
+
+# API Rate limiting
+API_RATE_LIMIT=100
+
+# ===========================================
+# EMAIL CONFIGURATION (Optional)
+# ===========================================
+# Email service configuration
+EMAIL_SERVICE=gmail
+EMAIL_USER=your_email@gmail.com
+EMAIL_PASS=your_app_password
+
+# ===========================================
+# ANALYTICS CONFIGURATION (Optional)
+# ===========================================
+# Google Analytics
+NEXT_PUBLIC_GA_ID=G-XXXXXXXXXX
+
+# ===========================================
+# STORAGE CONFIGURATION
+# ===========================================
+# File upload limits
+MAX_FILE_SIZE=10485760
+ALLOWED_FILE_TYPES=image/jpeg,image/png,image/webp,image/avif,video/mp4
+
+# ===========================================
+# CACHE CONFIGURATION
+# ===========================================
+# Redis configuration (if using Redis for caching)
+REDIS_URL=redis://localhost:6379
+
+# ===========================================
+# WEBHOOK CONFIGURATION (Optional)
+# ===========================================
+# Webhook URLs for external integrations
+WEBHOOK_URL=your_webhook_url_here

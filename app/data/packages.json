@@ -1,0 +1,58 @@
+[
+  {
+    "id": "bali-5night-4star",
+    "title": "Bali 5 Night 4 Star Package",
+    "destination": "Bali",
+    "duration": "5 days",
+    "price": 45000,
+    "image": "/Destination/bali/Bali1.webp",
+    "description": "Experience the beauty of Bali with our 5-night package featuring 4-star accommodations.",
+    "highlights": [
+      "Visit ancient temples",
+      "Explore rice terraces",
+      "Enjoy beach activities",
+      "Cultural experiences"
+    ],
+    "inclusions": [
+      "4-star hotel accommodation",
+      "Daily breakfast",
+      "Airport transfers",
+      "Sightseeing tours",
+      "Professional guide"
+    ],
+    "exclusions": [
+      "International flights",
+      "Personal expenses",
+      "Optional activities",
+      "Travel insurance"
+    ]
+  },
+  {
+    "id": "dubai-4night-luxury",
+    "title": "Dubai 4 Night Luxury Package",
+    "destination": "Dubai",
+    "duration": "4 days",
+    "price": 55000,
+    "image": "/Destination/Dubai/Dubai1.webp",
+    "description": "Luxury experience in Dubai with premium accommodations and exclusive experiences.",
+    "highlights": [
+      "Burj Khalifa visit",
+      "Desert safari",
+      "Shopping at Dubai Mall",
+      "Luxury dining"
+    ],
+    "inclusions": [
+      "5-star hotel accommodation",
+      "All meals included",
+      "Private transfers",
+      "VIP experiences",
+      "Personal concierge"
+    ],
+    "exclusions": [
+      "International flights",
+      "Personal shopping",
+      "Optional activities",
+      "Travel insurance"
+    ]
+  }
+]

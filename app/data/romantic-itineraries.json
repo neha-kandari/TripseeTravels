@@ -1,0 +1,109 @@
+[
+  {
+    "id": "bali-romantic-honeymoon",
+    "packageId": "bali-romantic-honeymoon",
+    "title": "Bali Romantic Honeymoon Itinerary",
+    "destination": "Bali",
+    "duration": "6 days",
+    "overview": "A dreamy romantic escape designed for couples to create unforgettable memories in the beautiful island of Bali.",
+    "hotelName": "The St. Regis Bali Resort",
+    "days": [
+      {
+        "day": 1,
+        "title": "Romantic Arrival",
+        "description": "Begin your romantic journey with a warm welcome and intimate check-in experience.",
+        "activities": [
+          "Private airport transfer",
+          "Romantic room setup",
+          "Welcome champagne",
+          "Couple's dinner"
+        ],
+        "meals": ["Dinner"],
+        "accommodation": "The St. Regis Bali Resort"
+      },
+      {
+        "day": 2,
+        "title": "Sunrise & Temple Romance",
+        "description": "Start the day with a magical sunrise and explore Bali's spiritual side together.",
+        "activities": [
+          "Sunrise at Mount Batur",
+          "Temple blessing ceremony",
+          "Couple's spa treatment",
+          "Romantic lunch"
+        ],
+        "meals": ["Breakfast", "Lunch"],
+        "accommodation": "The St. Regis Bali Resort"
+      },
+      {
+        "day": 3,
+        "title": "Beach Romance",
+        "description": "Enjoy a day of beach activities and water sports designed for couples.",
+        "activities": [
+          "Private beach access",
+          "Couple's snorkeling",
+          "Beach volleyball",
+          "Sunset photography session"
+        ],
+        "meals": ["Breakfast", "Lunch"],
+        "accommodation": "The St. Regis Bali Resort"
+      },
+      {
+        "day": 4,
+        "title": "Cultural Love Story",
+        "description": "Immerse yourselves in Balinese culture and create beautiful memories together.",
+        "activities": [
+          "Traditional cooking class for two",
+          "Village cultural tour",
+          "Romantic temple visit",
+          "Cultural dance performance"
+        ],
+        "meals": ["Breakfast", "Lunch", "Dinner"],
+        "accommodation": "The St. Regis Bali Resort"
+      },
+      {
+        "day": 5,
+        "title": "Luxury & Relaxation",
+        "description": "Pamper yourselves with luxury experiences and intimate moments.",
+        "activities": [
+          "Couple's spa day",
+          "Private pool time",
+          "Luxury shopping",
+          "Romantic dinner cruise"
+        ],
+        "meals": ["Breakfast", "Lunch", "Dinner"],
+        "accommodation": "The St. Regis Bali Resort"
+      },
+      {
+        "day": 6,
+        "title": "Farewell Romance",
+        "description": "End your romantic journey with beautiful memories and a promise to return.",
+        "activities": [
+          "Final romantic breakfast",
+          "Last-minute shopping",
+          "Airport transfer",
+          "Departure"
+        ],
+        "meals": ["Breakfast"],
+        "accommodation": "None"
+      }
+    ],
+    "inclusions": [
+      "Luxury resort accommodation",
+      "All meals included",
+      "Private transfers",
+      "Couple's activities",
+      "Romantic surprises",
+      "Professional photographer",
+      "Spa treatments",
+      "Cultural experiences"
+    ],
+    "exclusions": [
+      "International flights",
+      "Personal expenses",
+      "Optional activities",
+      "Travel insurance",
+      "Visa fees",
+      "Tips and gratuities"
+    ]
+  }
+]

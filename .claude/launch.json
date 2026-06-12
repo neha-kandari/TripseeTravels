@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "Tripsee Dev",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["--prefix", "/Users/ankur/Downloads/TripseeTravels", "run", "dev"],
+      "port": 3100,
+      "autoPort": true
+    }
+  ]
+}

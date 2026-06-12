@@ -1,0 +1,677 @@
+/* Fonts are self-hosted via next/font/google in layout.tsx
+   No @import needed — eliminates render-blocking network request to Google */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom scrollbar styles */
+@layer utilities {
+  .scrollbar-thin {
+    scrollbar-width: thin;
+  }
+  
+  .scrollbar-thumb-pink-300::-webkit-scrollbar-thumb {
+    background-color: #f9a8d4;
+    border-radius: 6px;
+  }
+  
+  .scrollbar-track-gray-100::-webkit-scrollbar-track {
+    background-color: #f3f4f6;
+    border-radius: 6px;
+  }
+  
+  .scrollbar-thumb-pink-400::-webkit-scrollbar-thumb:hover {
+    background-color: #f472b6;
+  }
+  
+  .scrollbar-thin::-webkit-scrollbar {
+    width: 8px;
+  }
+  
+  .scrollbar-thin::-webkit-scrollbar-track {
+    background: #f3f4f6;
+    border-radius: 6px;
+  }
+  
+  .scrollbar-thin::-webkit-scrollbar-thumb {
+    background: #f9a8d4;
+    border-radius: 6px;
+  }
+  
+  .scrollbar-thin::-webkit-scrollbar-thumb:hover {
+    background: #f472b6;
+  }
+  
+  /* Orange scrollbar styles for Bali page */
+  .scrollbar-thumb-orange-300::-webkit-scrollbar-thumb {
+    background-color: #fed7aa;
+    border-radius: 6px;
+  }
+  
+  .scrollbar-thumb-orange-400::-webkit-scrollbar-thumb:hover {
+    background-color: #fb923c;
+  }
+}
+
+/* Custom styles for better typography and smooth transitions */
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    margin: 0;
+    padding: 0;
+    /* Prevent ANY element from creating horizontal scroll */
+    overflow-x: hidden;
+    /* Cap width to the viewport so nothing bleeds past the edge */
+    max-width: 100vw;
+  }
+
+  body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', sans-serif;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    max-width: 100vw;
+    /* Contain all children within the viewport width */
+    position: relative;
+  }
+}
+
+@layer components {
+  .nav-link {
+    @apply relative transition-all duration-200;
+  }
+  
+  .nav-link::after {
+    @apply content-[''] absolute bottom-0 left-0 w-0 h-0.5 bg-white transition-all duration-200;
+  }
+  
+  .nav-link:hover::after {
+    @apply w-full;
+  }
+}
+
+/* Custom blur utilities */
+@layer utilities {
+  .blur-xs {
+    filter: blur(1px);
+  }
+  
+  .scrollbar-hide {
+    -ms-overflow-style: none;  /* Internet Explorer 10+ */
+    scrollbar-width: none;  /* Firefox */
+  }
+  
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;  /* Safari and Chrome */
+  }
+  
+  /* Line clamp utilities for text truncation */
+  .line-clamp-1 {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+  }
+  
+  .line-clamp-2 {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+  }
+  
+  .line-clamp-3 {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+  }
+}
+
+/* Font styles - using system fonts for better performance */
+.font-cursive {
+  font-family: 'Merienda', cursive;
+}
+
+/* Simplified animations for better performance */
+@keyframes fade-in {
+  0% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in {
+  animation: fade-in 0.6s ease-out forwards;
+}
+
+.font-limelight {
+  font-family: 'Limelight', cursive;
+}
+
+.font-merienda {
+  font-family: 'Merienda', cursive;
+}
+
+/* Custom Swiper styles for TopDestinations */
+.top-destinations-swiper .swiper-button-next,
+.top-destinations-swiper .swiper-button-prev {
+  color: #0d9488;
+  background: white;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.top-destinations-swiper .swiper-button-next:after,
+.top-destinations-swiper .swiper-button-prev:after {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.top-destinations-swiper .swiper-pagination-bullet {
+  background: #0d9488;
+  opacity: 0.5;
+}
+
+.top-destinations-swiper .swiper-pagination-bullet-active {
+  opacity: 1;
+  background: #0d9488;
+}
+
+/* Custom animations for hero section */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Home page hero section - ensure zero top margin and no overflow */
+header + section,
+section.relative {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+  max-width: 100%;
+}
+
+@keyframes slideInLeft {
+  from {
+    opacity: 0;
+    transform: translateX(-50px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes slideInRight {
+  from {
+    opacity: 0;
+    transform: translateX(50px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes zoomIn {
+  from {
+    opacity: 0;
+    transform: scale(0.8);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+@keyframes cardOpen {
+  0% {
+    opacity: 0;
+    transform: scale(0.8) rotateY(-15deg);
+  }
+  50% {
+    opacity: 0.7;
+    transform: scale(0.95) rotateY(-5deg);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1) rotateY(0deg);
+  }
+}
+
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+.animate-fade-in-up {
+  animation: fadeInUp 1s ease-out;
+}
+
+.animate-slide-in-left {
+  animation: slideInLeft 1s ease-out;
+}
+
+.animate-slide-in-right {
+  animation: slideInRight 1s ease-out 0.3s both;
+}
+
+.animate-fade-in-up-delay {
+  animation: fadeInUp 1s ease-out 0.6s both;
+}
+
+.animate-fade-in-up-delay-2 {
+  animation: fadeInUp 1s ease-out 0.9s both;
+}
+
+/* Remove empty ruleset */
+
+.animate-zoom-in {
+  animation: zoomIn 0.8s ease-out;
+}
+
+.animate-card-open {
+  animation: cardOpen 0.6s ease-out;
+}
+
+.animate-float {
+  animation: float 3s ease-in-out infinite;
+}
+
+/* Vietnam Hero specific animations */
+.vietnam-hero-card {
+  transition: all 0.7s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.vietnam-hero-card:hover {
+  transform: translateY(-10px);
+}
+
+.vietnam-hero-card.active {
+  /* No animation needed - keeping for future use */
+  transform: none;
+}
+
+.vietnam-hero-content {
+  animation: fadeInUp 1.2s ease-out 0.3s both;
+}
+
+.vietnam-hero-subtitle {
+  animation: slideInLeft 1s ease-out 0.5s both;
+}
+
+.vietnam-hero-title {
+  animation: slideInRight 1.2s ease-out 0.7s both;
+}
+
+.vietnam-hero-description {
+  animation: fadeInUp 1s ease-out 0.9s both;
+}
+
+.vietnam-hero-button {
+  animation: fadeInUp 1s ease-out 1.1s both;
+}
+
+/* Floating particles animation */
+@keyframes floatParticle1 {
+  0%, 100% { transform: translate(0, 0) rotate(0deg); }
+  25% { transform: translate(10px, -15px) rotate(90deg); }
+  50% { transform: translate(-5px, -25px) rotate(180deg); }
+  75% { transform: translate(-15px, -10px) rotate(270deg); }
+}
+
+@keyframes floatParticle2 {
+  0%, 100% { transform: translate(0, 0) rotate(0deg); }
+  33% { transform: translate(15px, -20px) rotate(120deg); }
+  66% { transform: translate(-10px, -30px) rotate(240deg); }
+}
+
+@keyframes floatParticle3 {
+  0%, 100% { transform: translate(0, 0) rotate(0deg); }
+  50% { transform: translate(20px, -25px) rotate(180deg); }
+}
+
+@keyframes floatParticle4 {
+  0%, 100% { transform: translate(0, 0) rotate(0deg); }
+  25% { transform: translate(-15px, -20px) rotate(-90deg); }
+  50% { transform: translate(-25px, -5px) rotate(-180deg); }
+  75% { transform: translate(-15px, 10px) rotate(-270deg); }
+}
+
+.animate-float-particle1 {
+  animation: floatParticle1 8s ease-in-out infinite;
+}
+
+.animate-float-particle2 {
+  animation: floatParticle2 10s ease-in-out infinite;
+}
+
+.animate-float-particle3 {
+  animation: floatParticle3 12s ease-in-out infinite;
+}
+
+.animate-float-particle4 {
+  animation: floatParticle4 9s ease-in-out infinite;
+}
+
+/* Drop-in animation for destination hero images */
+@keyframes drop-in {
+  0% {
+    opacity: 0;
+    transform: translateY(-50px) scale(1.1);
+  }
+  50% {
+    opacity: 0.7;
+    transform: translateY(-10px) scale(1.05);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+.animate-drop-in {
+  animation: drop-in 1.2s ease-out forwards;
+}
+
+/* Enhanced card hover effects */
+.vietnam-hero-card:hover .card-image {
+  transform: none;
+}
+
+.vietnam-hero-card:hover .card-overlay {
+  opacity: 1;
+}
+
+/* Smooth transitions for all interactive elements */
+.vietnam-hero-card * {
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Interactive progress dots */
+.progress-dot {
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  cursor: pointer;
+}
+
+.progress-dot:hover {
+  transform: scale(1.3);
+  background-color: rgba(251, 146, 60, 0.8);
+}
+
+.progress-dot.active {
+  background-color: #fb923c;
+  transform: scale(1.25);
+  box-shadow: 0 0 20px rgba(251, 146, 60, 0.6);
+}
+
+/* Enhanced button hover effects */
+.vietnam-hero-button button {
+  position: relative;
+  overflow: hidden;
+}
+
+.vietnam-hero-button button::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent);
+  transition: left 0.5s;
+}
+
+.vietnam-hero-button button:hover::before {
+  left: 100%;
+}
+
+/* Card opening animation enhancement */
+.vietnam-hero-card.active .card-image {
+  transform: none;
+}
+
+.vietnam-hero-card.active .card-overlay {
+  background: linear-gradient(135deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6));
+}
+
+/* Responsive adjustments for Vietnam hero */
+@media (max-width: 1024px) {
+  .vietnam-hero-content {
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+  }
+  
+  .vietnam-hero-card {
+    min-width: 160px;
+  }
+}
+
+@media (min-width: 1025px) {
+  /* Hide scrollbars in desktop mode */
+  .vietnam-hero-content {
+    overflow: hidden;
+  }
+  
+  .vietnam-hero-content > div:last-child {
+    overflow: hidden;
+  }
+  
+  .vietnam-hero-content > div:last-child > div {
+    overflow: hidden;
+  }
+  
+  /* Ensure no scrollbars appear */
+  .vietnam-hero-content,
+  .vietnam-hero-content * {
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none; /* Internet Explorer 10+ */
+  }
+  
+  .vietnam-hero-content::-webkit-scrollbar,
+  .vietnam-hero-content *::-webkit-scrollbar {
+    display: none; /* Chrome, Safari, Opera */
+  }
+  
+  /* Prevent any overflow issues */
+  .vietnam-hero-card {
+    overflow: hidden;
+  }
+  
+  /* Hide scrollbars on main hero section */
+  .vietnam-hero-section {
+    overflow: hidden;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+  
+  .vietnam-hero-section::-webkit-scrollbar {
+    display: none;
+  }
+  
+  /* Destination cards positioning and transitions */
+  .vietnam-hero-content > div:last-child {
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .vietnam-hero-card {
+    transition: all 0.7s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+  
+  /* Ensure cards are properly positioned relative to progress dots */
+  .vietnam-hero-content > div:last-child {
+    position: absolute;
+    bottom: 9rem; /* 36 * 0.25rem = 9rem */
+    right: 2rem; /* 8 * 0.25rem = 2rem */
+    z-index: 20;
+  }
+  
+  @media (min-width: 1280px) {
+    .vietnam-hero-content > div:last-child {
+      bottom: 8rem; /* Slightly higher on larger screens */
+      right: 3rem; /* More right margin on larger screens */
+    }
+  }
+  
+  @media (min-width: 1536px) {
+    .vietnam-hero-content > div:last-child {
+      bottom: 7rem; /* Even higher on very large screens */
+      right: 4rem; /* More right margin on very large screens */
+    }
+  }
+  
+  /* Ensure no scrollbars on the entire page in desktop mode */
+  body.vietnam-page,
+  html.vietnam-page {
+    overflow: hidden;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+  
+  body.vietnam-page::-webkit-scrollbar,
+  html.vietnam-page::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+@media (max-width: 768px) {
+  .vietnam-hero-title {
+    font-size: 2.5rem;
+    line-height: 1.1;
+  }
+  
+  .vietnam-hero-subtitle {
+    font-size: 1rem;
+  }
+  
+  .vietnam-hero-description {
+    font-size: 0.875rem;
+    max-width: 100%;
+  }
+  
+  .vietnam-hero-button {
+    flex-direction: column;
+    gap: 1rem;
+  }
+  
+  .vietnam-hero-card {
+    min-width: 140px;
+  }
+}
+
+@media (max-width: 640px) {
+  .vietnam-hero-title {
+    font-size: 2rem;
+  }
+  
+  .vietnam-hero-card {
+    min-width: 120px;
+  }
+}
+
+/* Animation utilities for popup */
+@keyframes slide-in-from-bottom-4 {
+  from {
+    opacity: 0;
+    transform: translateY(1rem);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-in {
+  animation-fill-mode: both;
+}
+
+.slide-in-from-bottom-4 {
+  animation: slide-in-from-bottom-4 0.3s ease-out;
+}
+
+/* Smooth slider thumb styles for price range filters */
+.slider {
+  -webkit-appearance: none;
+  appearance: none;
+  background: transparent;
+  cursor: pointer;
+}
+
+.slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  background: #fb923c;
+  cursor: pointer;
+  border: 3px solid #ffffff;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.slider::-webkit-slider-thumb:hover {
+  transform: scale(1.1);
+  box-shadow: 0 4px 12px rgba(251, 146, 60, 0.4);
+  background: #f97316;
+}
+
+.slider::-webkit-slider-thumb:active {
+  transform: scale(1.2);
+  box-shadow: 0 6px 16px rgba(251, 146, 60, 0.6);
+}
+
+.slider::-moz-range-thumb {
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  background: #fb923c;
+  cursor: pointer;
+  border: 3px solid #ffffff;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.slider::-moz-range-thumb:hover {
+  transform: scale(1.1);
+  box-shadow: 0 4px 12px rgba(251, 146, 60, 0.4);
+  background: #f97316;
+}
+
+.slider::-moz-range-thumb:active {
+  transform: scale(1.2);
+  box-shadow: 0 6px 16px rgba(251, 146, 60, 0.6);
+}
+
+/* Focus styles for accessibility */
+.slider:focus {
+  outline: none;
+}
+
+.slider:focus::-webkit-slider-thumb {
+  box-shadow: 0 0 0 3px rgba(251, 146, 60, 0.3);
+}
+
+.slider:focus::-moz-range-thumb {
+  box-shadow: 0 0 0 3px rgba(251, 146, 60, 0.3);
+}
+

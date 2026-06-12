@@ -1,0 +1,2446 @@
+{
+  "timestamp": "2025-11-02T11:27:03.576Z",
+  "cloudName": "dpknmji5i",
+  "folderPrefix": "root",
+  "statistics": {
+    "total": 310,
+    "uploaded": 304,
+    "skipped": 0,
+    "errors": 6,
+    "duration": "669.12s"
+  },
+  "mappings": {
+    "/assets/aboutus/3c895894-6499-4e4b-8807-23d49803f20c.JPG": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082162/assets/aboutus/3c895894-6499-4e4b-8807-23d49803f20c.jpg",
+      "publicId": "assets/aboutus/3c895894-6499-4e4b-8807-23d49803f20c",
+      "width": 1200,
+      "height": 1600,
+      "format": "jpg",
+      "bytes": 225883
+    },
+    "/assets/aboutus/1b1a11b4-7417-4a0a-ba49-057a848912cf.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082162/assets/aboutus/1b1a11b4-7417-4a0a-ba49-057a848912cf.jpg",
+      "publicId": "assets/aboutus/1b1a11b4-7417-4a0a-ba49-057a848912cf",
+      "width": 3072,
+      "height": 4096,
+      "format": "jpg",
+      "bytes": 1038386
+    },
+    "/assets/aboutus/434aca0b-4eeb-41c6-9871-83557652217d.JPG": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082162/assets/aboutus/434aca0b-4eeb-41c6-9871-83557652217d.jpg",
+      "publicId": "assets/aboutus/434aca0b-4eeb-41c6-9871-83557652217d",
+      "width": 3072,
+      "height": 4096,
+      "format": "jpg",
+      "bytes": 719572
+    },
+    "/assets/aboutus/3c48c37e-21f9-4aca-ae96-be22f9178b1d.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082162/assets/aboutus/3c48c37e-21f9-4aca-ae96-be22f9178b1d.jpg",
+      "publicId": "assets/aboutus/3c48c37e-21f9-4aca-ae96-be22f9178b1d",
+      "width": 3072,
+      "height": 4096,
+      "format": "jpg",
+      "bytes": 1015391
+    },
+    "/assets/aboutus/1d9a11a4-e7b9-4fa7-af5d-a4763d2e72a9.JPG": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082162/assets/aboutus/1d9a11a4-e7b9-4fa7-af5d-a4763d2e72a9.jpg",
+      "publicId": "assets/aboutus/1d9a11a4-e7b9-4fa7-af5d-a4763d2e72a9",
+      "width": 4096,
+      "height": 3072,
+      "format": "jpg",
+      "bytes": 1373838
+    },
+    "/assets/aboutus/64e844aa-a597-4001-9531-95ec12705697.JPG": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082164/assets/aboutus/64e844aa-a597-4001-9531-95ec12705697.jpg",
+      "publicId": "assets/aboutus/64e844aa-a597-4001-9531-95ec12705697",
+      "width": 1502,
+      "height": 831,
+      "format": "jpg",
+      "bytes": 165788
+    },
+    "/assets/aboutus/img1.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082164/assets/aboutus/img1.jpg",
+      "publicId": "assets/aboutus/img1",
+      "width": 1200,
+      "height": 1600,
+      "format": "jpg",
+      "bytes": 273898
+    },
+    "/assets/aboutus/img2.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082164/assets/aboutus/img2.jpg",
+      "publicId": "assets/aboutus/img2",
+      "width": 1200,
+      "height": 1600,
+      "format": "jpg",
+      "bytes": 346156
+    },
+    "/assets/aboutus/5ab1e4ca-e116-4349-9072-c2beacc4ed16.JPG": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082164/assets/aboutus/5ab1e4ca-e116-4349-9072-c2beacc4ed16.jpg",
+      "publicId": "assets/aboutus/5ab1e4ca-e116-4349-9072-c2beacc4ed16",
+      "width": 3072,
+      "height": 4096,
+      "format": "jpg",
+      "bytes": 1436652
+    },
+    "/assets/aboutus/img3.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082165/assets/aboutus/img3.jpg",
+      "publicId": "assets/aboutus/img3",
+      "width": 3024,
+      "height": 4032,
+      "format": "jpg",
+      "bytes": 932823
+    },
+    "/assets/flaticon.png": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082167/assets/flaticon.png",
+      "publicId": "assets/flaticon",
+      "width": 139,
+      "height": 118,
+      "format": "png",
+      "bytes": 16411
+    },
+    "/assets/gallery/bali/img1.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082168/assets/gallery/bali/img1.jpg",
+      "publicId": "assets/gallery/bali/img1",
+      "width": 5760,
+      "height": 3804,
+      "format": "jpg",
+      "bytes": 1775784
+    },
+    "/assets/gallery/bali/img2.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082168/assets/gallery/bali/img2.jpg",
+      "publicId": "assets/gallery/bali/img2",
+      "width": 3592,
+      "height": 5406,
+      "format": "jpg",
+      "bytes": 1373725
+    },
+    "/assets/aboutus/owner.JPG": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082168/assets/aboutus/owner.jpg",
+      "publicId": "assets/aboutus/owner",
+      "width": 3024,
+      "height": 4032,
+      "format": "jpg",
+      "bytes": 1544277
+    },
+    "/assets/gallery/bali/img3.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082168/assets/gallery/bali/img3.jpg",
+      "publicId": "assets/gallery/bali/img3",
+      "width": 4104,
+      "height": 2736,
+      "format": "jpg",
+      "bytes": 1058909
+    },
+    "/assets/gallery/cb35ccf5-8b8e-4c4b-904f-e7819f039b20.JPG": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082171/assets/gallery/cb35ccf5-8b8e-4c4b-904f-e7819f039b20.jpg",
+      "publicId": "assets/gallery/cb35ccf5-8b8e-4c4b-904f-e7819f039b20",
+      "width": 3024,
+      "height": 4032,
+      "format": "jpg",
+      "bytes": 1143804
+    },
+    "/assets/gallery/IMG_4.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082172/assets/gallery/IMG_4.jpg",
+      "publicId": "assets/gallery/IMG_4",
+      "width": 4032,
+      "height": 3024,
+      "format": "jpg",
+      "bytes": 1327147
+    },
+    "/assets/gallery/IMG_1.JPG": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082172/assets/gallery/IMG_1.jpg",
+      "publicId": "assets/gallery/IMG_1",
+      "width": 1242,
+      "height": 2208,
+      "format": "jpg",
+      "bytes": 608855
+    },
+    "/assets/gallery/IMG_3.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082175/assets/gallery/IMG_3.jpg",
+      "publicId": "assets/gallery/IMG_3",
+      "width": 6000,
+      "height": 4000,
+      "format": "jpg",
+      "bytes": 8697815
+    },
+    "/assets/gallery/IMG_2.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082175/assets/gallery/IMG_2.jpg",
+      "publicId": "assets/gallery/IMG_2",
+      "width": 5877,
+      "height": 3918,
+      "format": "jpg",
+      "bytes": 6920031
+    },
+    "/assets/gallery/IMG_5.JPG": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082183/assets/gallery/IMG_5.jpg",
+      "publicId": "assets/gallery/IMG_5",
+      "width": 3024,
+      "height": 4032,
+      "format": "jpg",
+      "bytes": 1143804
+    },
+    "/assets/logo.png": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082184/assets/logo.png",
+      "publicId": "assets/logo",
+      "width": 400,
+      "height": 127,
+      "format": "png",
+      "bytes": 32978
+    },
+    "/assets/Illustration.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082185/assets/Illustration.jpg",
+      "publicId": "assets/Illustration",
+      "width": 2000,
+      "height": 1440,
+      "format": "jpg",
+      "bytes": 83617
+    },
+    "/assets/illustration-lowercase.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082185/assets/illustration-lowercase.jpg",
+      "publicId": "assets/illustration-lowercase",
+      "width": 2000,
+      "height": 1440,
+      "format": "jpg",
+      "bytes": 83617
+    },
+    "/assets/Hotelbali1.webp": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082185/assets/Hotelbali1.webp",
+      "publicId": "assets/Hotelbali1",
+      "width": 1360,
+      "height": 805,
+      "format": "webp",
+      "bytes": 222782
+    },
+    "/BG.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082187/BG.jpg",
+      "publicId": "BG",
+      "width": 735,
+      "height": 490,
+      "format": "jpg",
+      "bytes": 56141
+    },
+    "/Destination/andaman.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082187/Destination/andaman.jpg",
+      "publicId": "Destination/andaman",
+      "width": 736,
+      "height": 552,
+      "format": "jpg",
+      "bytes": 127142
+    },
+    "/Container.png": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082188/Container.png",
+      "publicId": "Container",
+      "width": 958,
+      "height": 918,
+      "format": "png",
+      "bytes": 1106174
+    },
+    "/background.png": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082189/background.png",
+      "publicId": "background",
+      "width": 2635,
+      "height": 889,
+      "format": "png",
+      "bytes": 3282320
+    },
+    "/Destination/AndamanHero/image1.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082191/Destination/AndamanHero/image1.jpg",
+      "publicId": "Destination/AndamanHero/image1",
+      "width": 8192,
+      "height": 4608,
+      "format": "jpg",
+      "bytes": 5800401
+    },
+    "/Destination/Andamans/Anthropological Museum (Port Blair).jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082196/Destination/Andamans/Anthropological%20Museum%20%28Port%20Blair%29.jpg",
+      "publicId": "Destination/Andamans/Anthropological Museum (Port Blair)",
+      "width": 500,
+      "height": 334,
+      "format": "jpg",
+      "bytes": 43459
+    },
+    "/Destination/AndamanHero/image3.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082196/Destination/AndamanHero/image3.jpg",
+      "publicId": "Destination/AndamanHero/image3",
+      "width": 4032,
+      "height": 2936,
+      "format": "jpg",
+      "bytes": 1904384
+    },
+    "/Destination/AndamanHero/image2.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082197/Destination/AndamanHero/image2.jpg",
+      "publicId": "Destination/AndamanHero/image2",
+      "width": 6239,
+      "height": 3711,
+      "format": "jpg",
+      "bytes": 4680731
+    },
+    "/Destination/Andamans/Baratang Island.webp": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082201/Destination/Andamans/Baratang%20Island.webp",
+      "publicId": "Destination/Andamans/Baratang Island",
+      "width": 4928,
+      "height": 3264,
+      "format": "webp",
+      "bytes": 1945752
+    },
+    "/Destination/AndamanHero/image4.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082201/Destination/AndamanHero/image4.jpg",
+      "publicId": "Destination/AndamanHero/image4",
+      "width": 4898,
+      "height": 3265,
+      "format": "jpg",
+      "bytes": 1490292
+    },
+    "/Destination/Andamans/Cinque Island.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082203/Destination/Andamans/Cinque%20Island.jpg",
+      "publicId": "Destination/Andamans/Cinque Island",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "bytes": 183040
+    },
+    "/Destination/Andamans/Cellular Jail (Port Blair).jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082204/Destination/Andamans/Cellular%20Jail%20%28Port%20Blair%29.jpg",
+      "publicId": "Destination/Andamans/Cellular Jail (Port Blair)",
+      "width": 1280,
+      "height": 720,
+      "format": "jpg",
+      "bytes": 196086
+    },
+    "/Destination/Andamans/North Bay Island.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082206/Destination/Andamans/North%20Bay%20Island.jpg",
+      "publicId": "Destination/Andamans/North Bay Island",
+      "width": 800,
+      "height": 495,
+      "format": "jpg",
+      "bytes": 70280
+    },
+    "/Destination/Andamans/Neil Island (Shaheed Dweep).jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082206/Destination/Andamans/Neil%20Island%20%28Shaheed%20Dweep%29.jpg",
+      "publicId": "Destination/Andamans/Neil Island (Shaheed Dweep)",
+      "width": 1000,
+      "height": 533,
+      "format": "jpg",
+      "bytes": 76000
+    },
+    "/Destination/Andamans/Havelock Island (Swaraj Dweep).webp": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082207/Destination/Andamans/Havelock%20Island%20%28Swaraj%20Dweep%29.webp",
+      "publicId": "Destination/Andamans/Havelock Island (Swaraj Dweep)",
+      "width": 1200,
+      "height": 900,
+      "format": "webp",
+      "bytes": 165004
+    },
+    "/Destination/Andamans/Ross Island (Netaji Subhash Chandra Bose Island).jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082209/Destination/Andamans/Ross%20Island%20%28Netaji%20Subhash%20Chandra%20Bose%20Island%29.jpg",
+      "publicId": "Destination/Andamans/Ross Island (Netaji Subhash Chandra Bose Island)",
+      "width": 900,
+      "height": 506,
+      "format": "jpg",
+      "bytes": 104791
+    },
+    "/Destination/Andamans/Samudrika Marine Museum (Port Blair).jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082210/Destination/Andamans/Samudrika%20Marine%20Museum%20%28Port%20Blair%29.jpg",
+      "publicId": "Destination/Andamans/Samudrika Marine Museum (Port Blair)",
+      "width": 1200,
+      "height": 750,
+      "format": "jpg",
+      "bytes": 440999
+    },
+    "/Destination/bali/Bali3.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082211/Destination/bali/Bali3.jpg",
+      "publicId": "Destination/bali/Bali3",
+      "width": 5472,
+      "height": 3648,
+      "format": "jpg",
+      "bytes": 4925829
+    },
+    "/Destination/bali/Bali2.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082212/Destination/bali/Bali2.jpg",
+      "publicId": "Destination/bali/Bali2",
+      "width": 5472,
+      "height": 3648,
+      "format": "jpg",
+      "bytes": 4925829
+    },
+    "/Destination/bali/Bali1.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082212/Destination/bali/Bali1.jpg",
+      "publicId": "Destination/bali/Bali1",
+      "width": 5879,
+      "height": 3919,
+      "format": "jpg",
+      "bytes": 2253625
+    },
+    "/Destination/bali/Bali6.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082215/Destination/bali/Bali6.jpg",
+      "publicId": "Destination/bali/Bali6",
+      "width": 720,
+      "height": 1280,
+      "format": "jpg",
+      "bytes": 209524
+    },
+    "/Destination/bali/Bali4.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082217/Destination/bali/Bali4.jpg",
+      "publicId": "Destination/bali/Bali4",
+      "width": 4908,
+      "height": 2761,
+      "format": "jpg",
+      "bytes": 2749138
+    },
+    "/Destination/bali/Bali8.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082217/Destination/bali/Bali8.jpg",
+      "publicId": "Destination/bali/Bali8",
+      "width": 4000,
+      "height": 5000,
+      "format": "jpg",
+      "bytes": 2410871
+    },
+    "/Destination/bali/Bali7.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082217/Destination/bali/Bali7.jpg",
+      "publicId": "Destination/bali/Bali7",
+      "width": 4000,
+      "height": 6000,
+      "format": "jpg",
+      "bytes": 4676505
+    },
+    "/Destination/bali/Bali5.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082222/Destination/bali/Bali5.jpg",
+      "publicId": "Destination/bali/Bali5",
+      "width": 8957,
+      "height": 6034,
+      "format": "jpg",
+      "bytes": 9327183
+    },
+    "/Destination/Bali.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082225/Destination/Bali.jpg",
+      "publicId": "Destination/Bali",
+      "width": 736,
+      "height": 552,
+      "format": "jpg",
+      "bytes": 84166
+    },
+    "/Destination/BaliHero/Pura Ulun Danu.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082229/Destination/BaliHero/Pura%20Ulun%20Danu.jpg",
+      "publicId": "Destination/BaliHero/Pura Ulun Danu",
+      "width": 4000,
+      "height": 6000,
+      "format": "jpg",
+      "bytes": 2083814
+    },
+    "/Destination/BaliHero/Handara Gate.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082230/Destination/BaliHero/Handara%20Gate.jpg",
+      "publicId": "Destination/BaliHero/Handara Gate",
+      "width": 6000,
+      "height": 4000,
+      "format": "jpg",
+      "bytes": 3157781
+    },
+    "/Destination/BaliHero/Kelingking Beach.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082234/Destination/BaliHero/Kelingking%20Beach.jpg",
+      "publicId": "Destination/BaliHero/Kelingking Beach",
+      "width": 6000,
+      "height": 4000,
+      "format": "jpg",
+      "bytes": 3966992
+    },
+    "/Destination/BaliHero/Tirta Empul Temple.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082234/Destination/BaliHero/Tirta%20Empul%20Temple.jpg",
+      "publicId": "Destination/BaliHero/Tirta Empul Temple",
+      "width": 4908,
+      "height": 2761,
+      "format": "jpg",
+      "bytes": 2749138
+    },
+    "/Destination/Bali_images/Gates of Heaven.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082237/Destination/Bali_images/Gates%20of%20Heaven.jpg",
+      "publicId": "Destination/Bali_images/Gates of Heaven",
+      "width": 720,
+      "height": 1280,
+      "format": "jpg",
+      "bytes": 209524
+    },
+    "/Destination/Bali_images/Nusa Penida.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082240/Destination/Bali_images/Nusa%20Penida.avif",
+      "publicId": "Destination/Bali_images/Nusa Penida",
+      "width": 1074,
+      "height": 806,
+      "format": "avif",
+      "bytes": 269723
+    },
+    "/Destination/Bali_images/Kelingking Beach.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082241/Destination/Bali_images/Kelingking%20Beach.jpg",
+      "publicId": "Destination/Bali_images/Kelingking Beach",
+      "width": 4000,
+      "height": 6000,
+      "format": "jpg",
+      "bytes": 4676505
+    },
+    "/Destination/Bali_images/Pura Ulun Danu.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082244/Destination/Bali_images/Pura%20Ulun%20Danu.jpg",
+      "publicId": "Destination/Bali_images/Pura Ulun Danu",
+      "width": 5879,
+      "height": 3919,
+      "format": "jpg",
+      "bytes": 2253625
+    },
+    "/Destination/Bali_images/Pura Penataran Agung.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082248/Destination/Bali_images/Pura%20Penataran%20Agung.jpg",
+      "publicId": "Destination/Bali_images/Pura Penataran Agung",
+      "width": 8957,
+      "height": 6034,
+      "format": "jpg",
+      "bytes": 9327183
+    },
+    "/Destination/Bali_images/Seminyak Beach.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082252/Destination/Bali_images/Seminyak%20Beach.jpg",
+      "publicId": "Destination/Bali_images/Seminyak Beach",
+      "width": 1024,
+      "height": 691,
+      "format": "jpg",
+      "bytes": 110905
+    },
+    "/Destination/Bali_images/Tanah Lot Temple.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082255/Destination/Bali_images/Tanah%20Lot%20Temple.avif",
+      "publicId": "Destination/Bali_images/Tanah Lot Temple",
+      "width": 1170,
+      "height": 780,
+      "format": "avif",
+      "bytes": 149407
+    },
+    "/Destination/Dubai/Dubai2.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082257/Destination/Dubai/Dubai2.jpg",
+      "publicId": "Destination/Dubai/Dubai2",
+      "width": 3024,
+      "height": 4032,
+      "format": "jpg",
+      "bytes": 2437376
+    },
+    "/Destination/Bali_images/Tirta Empul Temple.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082257/Destination/Bali_images/Tirta%20Empul%20Temple.jpg",
+      "publicId": "Destination/Bali_images/Tirta Empul Temple",
+      "width": 4908,
+      "height": 2761,
+      "format": "jpg",
+      "bytes": 2749138
+    },
+    "/Destination/Dubai/Dubai1.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082266/Destination/Dubai/Dubai1.jpg",
+      "publicId": "Destination/Dubai/Dubai1",
+      "width": 4777,
+      "height": 8192,
+      "format": "jpg",
+      "bytes": 4457042
+    },
+    "/Destination/Dubai/image3.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082273/Destination/Dubai/image3.jpg",
+      "publicId": "Destination/Dubai/image3",
+      "width": 4823,
+      "height": 3194,
+      "format": "jpg",
+      "bytes": 1628214
+    },
+    "/Destination/Dubai/image.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082274/Destination/Dubai/image.jpg",
+      "publicId": "Destination/Dubai/image",
+      "width": 3891,
+      "height": 2918,
+      "format": "jpg",
+      "bytes": 1350527
+    },
+    "/Destination/Dubai/image4.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082274/Destination/Dubai/image4.jpg",
+      "publicId": "Destination/Dubai/image4",
+      "width": 3992,
+      "height": 2992,
+      "format": "jpg",
+      "bytes": 2027022
+    },
+    "/Destination/Dubai/image2.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082276/Destination/Dubai/image2.jpg",
+      "publicId": "Destination/Dubai/image2",
+      "width": 9504,
+      "height": 6336,
+      "format": "jpg",
+      "bytes": 6189321
+    },
+    "/Destination/Dubai.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082280/Destination/Dubai.jpg",
+      "publicId": "Destination/Dubai",
+      "width": 736,
+      "height": 613,
+      "format": "jpg",
+      "bytes": 106537
+    },
+    "/Destination/DubaiHero/Burj Khalifa.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082280/Destination/DubaiHero/Burj%20Khalifa.jpg",
+      "publicId": "Destination/DubaiHero/Burj Khalifa",
+      "width": 2000,
+      "height": 3000,
+      "format": "jpg",
+      "bytes": 669236
+    },
+    "/Destination/DubaiHero/Desert Safari.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082282/Destination/DubaiHero/Desert%20Safari.jpg",
+      "publicId": "Destination/DubaiHero/Desert Safari",
+      "width": 9504,
+      "height": 6336,
+      "format": "jpg",
+      "bytes": 6189321
+    },
+    "/Destination/Dubai_images/Ain Dubai.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082301/Destination/Dubai_images/Ain%20Dubai.jpg",
+      "publicId": "Destination/Dubai_images/Ain Dubai",
+      "width": 4480,
+      "height": 6720,
+      "format": "jpg",
+      "bytes": 2710515
+    },
+    "/Destination/Dubai_images/Burj Khalifa.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082304/Destination/Dubai_images/Burj%20Khalifa.jpg",
+      "publicId": "Destination/Dubai_images/Burj Khalifa",
+      "width": 2000,
+      "height": 3000,
+      "format": "jpg",
+      "bytes": 669236
+    },
+    "/Destination/Dubai_images/Burj AI Arab Jumeirah.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082305/Destination/Dubai_images/Burj%20AI%20Arab%20Jumeirah.jpg",
+      "publicId": "Destination/Dubai_images/Burj AI Arab Jumeirah",
+      "width": 3891,
+      "height": 2918,
+      "format": "jpg",
+      "bytes": 1350527
+    },
+    "/Destination/Dubai_images/Desert Safari.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082306/Destination/Dubai_images/Desert%20Safari.jpg",
+      "publicId": "Destination/Dubai_images/Desert Safari",
+      "width": 9504,
+      "height": 6336,
+      "format": "jpg",
+      "bytes": 6189321
+    },
+    "/Destination/Dubai_images/Dubai Mall.webp": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082311/Destination/Dubai_images/Dubai%20Mall.jpg",
+      "publicId": "Destination/Dubai_images/Dubai Mall",
+      "width": 3548,
+      "height": 1996,
+      "format": "jpg",
+      "bytes": 1602019
+    },
+    "/Destination/Malasia.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082314/Destination/Malasia.jpg",
+      "publicId": "Destination/Malasia",
+      "width": 736,
+      "height": 920,
+      "format": "jpg",
+      "bytes": 145488
+    },
+    "/Destination/Dubai_images/Dubai Skyline.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082321/Destination/Dubai_images/Dubai%20Skyline.jpg",
+      "publicId": "Destination/Dubai_images/Dubai Skyline",
+      "width": 3024,
+      "height": 4032,
+      "format": "jpg",
+      "bytes": 2437376
+    },
+    "/Destination/Malaysia/Batu Caves (Selangor).jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082321/Destination/Malaysia/Batu%20Caves%20%28Selangor%29.jpg",
+      "publicId": "Destination/Malaysia/Batu Caves (Selangor)",
+      "width": 6317,
+      "height": 4480,
+      "format": "jpg",
+      "bytes": 4441225
+    },
+    "/Destination/Malaysia/Kapas Island (Terengganu).jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082324/Destination/Malaysia/Kapas%20Island%20%28Terengganu%29.jpg",
+      "publicId": "Destination/Malaysia/Kapas Island (Terengganu)",
+      "width": 1080,
+      "height": 720,
+      "format": "jpg",
+      "bytes": 277533
+    },
+    "/Destination/Malaysia/Ipoh (Perak) – Colonial charm, cave temples, and street art.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082324/Destination/Malaysia/Ipoh%20%28Perak%29%20%E2%80%93%20Colonial%20charm%2C%20cave%20temples%2C%20and%20street%20art.jpg",
+      "publicId": "Destination/Malaysia/Ipoh (Perak) – Colonial charm, cave temples, and street art",
+      "width": 480,
+      "height": 270,
+      "format": "jpg",
+      "bytes": 40849
+    },
+    "/Destination/Malaysia/Cameron Highlands.webp": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082325/Destination/Malaysia/Cameron%20Highlands.webp",
+      "publicId": "Destination/Malaysia/Cameron Highlands",
+      "width": 1920,
+      "height": 1280,
+      "format": "webp",
+      "bytes": 646816
+    },
+    "/Destination/Malaysia/Manukan Island (Sabah).jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082327/Destination/Malaysia/Manukan%20Island%20%28Sabah%29.jpg",
+      "publicId": "Destination/Malaysia/Manukan Island (Sabah)",
+      "width": 1200,
+      "height": 630,
+      "format": "jpg",
+      "bytes": 76797
+    },
+    "/Destination/Malaysia/Malacca (Melaka).jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082328/Destination/Malaysia/Malacca%20%28Melaka%29.jpg",
+      "publicId": "Destination/Malaysia/Malacca (Melaka)",
+      "width": 1280,
+      "height": 576,
+      "format": "jpg",
+      "bytes": 866789
+    },
+    "/Destination/Malaysia/Redang Island – Known for crystal-clear waters and marine life.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082331/Destination/Malaysia/Redang%20Island%20%E2%80%93%20Known%20for%20crystal-clear%20waters%20and%20marine%20life.jpg",
+      "publicId": "Destination/Malaysia/Redang Island – Known for crystal-clear waters and marine life",
+      "width": 840,
+      "height": 425,
+      "format": "jpg",
+      "bytes": 85695
+    },
+    "/Destination/Malaysia/Tioman Island – A paradise for divers..jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082331/Destination/Malaysia/Tioman%20Island%20%E2%80%93%20A%20paradise%20for%20divers..jpg",
+      "publicId": "Destination/Malaysia/Tioman Island – A paradise for divers.",
+      "width": 1500,
+      "height": 1000,
+      "format": "jpg",
+      "bytes": 1944049
+    },
+    "/Destination/Malaysia/Petronas Twin Towers (Kuala Lumpur) – Iconic twin skyscrapers..jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082331/Destination/Malaysia/Petronas%20Twin%20Towers%20%28Kuala%20Lumpur%29%20%E2%80%93%20Iconic%20twin%20skyscrapers..jpg",
+      "publicId": "Destination/Malaysia/Petronas Twin Towers (Kuala Lumpur) – Iconic twin skyscrapers.",
+      "width": 4000,
+      "height": 6000,
+      "format": "jpg",
+      "bytes": 3716464
+    },
+    "/Destination/MalaysiaHero/img1.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082333/Destination/MalaysiaHero/img1.jpg",
+      "publicId": "Destination/MalaysiaHero/img1",
+      "width": 1200,
+      "height": 630,
+      "format": "jpg",
+      "bytes": 76797
+    },
+    "/Destination/MalaysiaHero/img2.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082336/Destination/MalaysiaHero/img2.jpg",
+      "publicId": "Destination/MalaysiaHero/img2",
+      "width": 4000,
+      "height": 6000,
+      "format": "jpg",
+      "bytes": 3716464
+    },
+    "/Destination/MalaysiaHero/img3.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082338/Destination/MalaysiaHero/img3.jpg",
+      "publicId": "Destination/MalaysiaHero/img3",
+      "width": 840,
+      "height": 425,
+      "format": "jpg",
+      "bytes": 85695
+    },
+    "/Destination/MalaysiaHero/img4.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082340/Destination/MalaysiaHero/img4.jpg",
+      "publicId": "Destination/MalaysiaHero/img4",
+      "width": 1500,
+      "height": 1000,
+      "format": "jpg",
+      "bytes": 1944049
+    },
+    "/Destination/Maldives/Conrad Maldives Rangali Island.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082341/Destination/Maldives/Conrad%20Maldives%20Rangali%20Island.jpg",
+      "publicId": "Destination/Maldives/Conrad Maldives Rangali Island",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 91140
+    },
+    "/Destination/Maldives/Baa Atoll (UNESCO Biosphere Reserve).jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082341/Destination/Maldives/Baa%20Atoll%20%28UNESCO%20Biosphere%20Reserve%29.jpg",
+      "publicId": "Destination/Maldives/Baa Atoll (UNESCO Biosphere Reserve)",
+      "width": 800,
+      "height": 533,
+      "format": "jpg",
+      "bytes": 163892
+    },
+    "/Destination/Maldives/Ari Atoll –.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082342/Destination/Maldives/Ari%20Atoll%20%E2%80%93.jpg",
+      "publicId": "Destination/Maldives/Ari Atoll –",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 234304
+    },
+    "/Destination/Maldives/North Malé Atoll.webp": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082344/Destination/Maldives/North%20Mal%C3%A9%20Atoll.webp",
+      "publicId": "Destination/Maldives/North Malé Atoll",
+      "width": 1024,
+      "height": 748,
+      "format": "webp",
+      "bytes": 113626
+    },
+    "/Destination/Maldives/Hanifaru Bay (Baa Atoll).jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082345/Destination/Maldives/Hanifaru%20Bay%20%28Baa%20Atoll%29.jpg",
+      "publicId": "Destination/Maldives/Hanifaru Bay (Baa Atoll)",
+      "width": 2560,
+      "height": 1338,
+      "format": "jpg",
+      "bytes": 715195
+    },
+    "/Destination/Maldives/Meedhoo, Raa Atoll,.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082344/Destination/Maldives/Meedhoo%2C%20Raa%20Atoll%2C.jpg",
+      "publicId": "Destination/Maldives/Meedhoo, Raa Atoll,",
+      "width": 5464,
+      "height": 3640,
+      "format": "jpg",
+      "bytes": 1887016
+    },
+    "/Destination/Maldives/Malé Atoll (Kaafu Atoll).jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082345/Destination/Maldives/Mal%C3%A9%20Atoll%20%28Kaafu%20Atoll%29.jpg",
+      "publicId": "Destination/Maldives/Malé Atoll (Kaafu Atoll)",
+      "width": 1920,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 575778
+    },
+    "/Destination/Maldives/Gulhi Falhu,.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082346/Destination/Maldives/Gulhi%20Falhu%2C.jpg",
+      "publicId": "Destination/Maldives/Gulhi Falhu,",
+      "width": 8064,
+      "height": 4536,
+      "format": "jpg",
+      "bytes": 4136384
+    },
+    "/Destination/Maldives.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082349/Destination/Maldives.jpg",
+      "publicId": "Destination/Maldives",
+      "width": 735,
+      "height": 919,
+      "format": "jpg",
+      "bytes": 169793
+    },
+    "/Destination/MaldivesHero/Hanifaru Bay.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082349/Destination/MaldivesHero/Hanifaru%20Bay.jpg",
+      "publicId": "Destination/MaldivesHero/Hanifaru Bay",
+      "width": 2560,
+      "height": 1338,
+      "format": "jpg",
+      "bytes": 715195
+    },
+    "/Destination/MaldivesHero/Malé Atoll.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082349/Destination/MaldivesHero/Mal%C3%A9%20Atoll.jpg",
+      "publicId": "Destination/MaldivesHero/Malé Atoll",
+      "width": 1920,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 575778
+    },
+    "/Destination/MaldivesHero/Meedhoo.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082349/Destination/MaldivesHero/Meedhoo.jpg",
+      "publicId": "Destination/MaldivesHero/Meedhoo",
+      "width": 5464,
+      "height": 3640,
+      "format": "jpg",
+      "bytes": 1887016
+    },
+    "/Destination/MaldivesHero/Gulhi Falhu.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082354/Destination/MaldivesHero/Gulhi%20Falhu.jpg",
+      "publicId": "Destination/MaldivesHero/Gulhi Falhu",
+      "width": 8064,
+      "height": 4536,
+      "format": "jpg",
+      "bytes": 4136384
+    },
+    "/Destination/Singapore/art science museum and marina bay stands.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082356/Destination/Singapore/art%20science%20museum%20and%20marina%20bay%20stands.avif",
+      "publicId": "Destination/Singapore/art science museum and marina bay stands",
+      "width": 687,
+      "height": 1031,
+      "format": "avif",
+      "bytes": 89443
+    },
+    "/Destination/Singapore/helix brigde.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082359/Destination/Singapore/helix%20brigde.avif",
+      "publicId": "Destination/Singapore/helix brigde",
+      "width": 600,
+      "height": 450,
+      "format": "avif",
+      "bytes": 63192
+    },
+    "/Destination/Singapore/marina bay sands.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082360/Destination/Singapore/marina%20bay%20sands.avif",
+      "publicId": "Destination/Singapore/marina bay sands",
+      "width": 1052,
+      "height": 812,
+      "format": "avif",
+      "bytes": 149647
+    },
+    "/Destination/Singapore/cloud forest.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082360/Destination/Singapore/cloud%20forest.avif",
+      "publicId": "Destination/Singapore/cloud forest",
+      "width": 735,
+      "height": 980,
+      "format": "avif",
+      "bytes": 270473
+    },
+    "/Destination/Singapore/Chinatown.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082361/Destination/Singapore/Chinatown.jpg",
+      "publicId": "Destination/Singapore/Chinatown",
+      "width": 4864,
+      "height": 3648,
+      "format": "jpg",
+      "bytes": 2053230
+    },
+    "/Destination/Singapore/universal studios.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082363/Destination/Singapore/universal%20studios.avif",
+      "publicId": "Destination/Singapore/universal studios",
+      "width": 600,
+      "height": 768,
+      "format": "avif",
+      "bytes": 76665
+    },
+    "/Destination/Singapore/singapore flyer.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082363/Destination/Singapore/singapore%20flyer.avif",
+      "publicId": "Destination/Singapore/singapore flyer",
+      "width": 600,
+      "height": 400,
+      "format": "avif",
+      "bytes": 51121
+    },
+    "/Destination/Singapore/supertree.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082363/Destination/Singapore/supertree.avif",
+      "publicId": "Destination/Singapore/supertree",
+      "width": 600,
+      "height": 820,
+      "format": "avif",
+      "bytes": 118999
+    },
+    "/Destination/Singapore.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082363/Destination/Singapore.jpg",
+      "publicId": "Destination/Singapore",
+      "width": 736,
+      "height": 736,
+      "format": "jpg",
+      "bytes": 138668
+    },
+    "/Destination/singaporeHero/image1.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082368/Destination/singaporeHero/image1.jpg",
+      "publicId": "Destination/singaporeHero/image1",
+      "width": 4928,
+      "height": 3264,
+      "format": "jpg",
+      "bytes": 1990635
+    },
+    "/Destination/singaporeHero/image2.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082371/Destination/singaporeHero/image2.jpg",
+      "publicId": "Destination/singaporeHero/image2",
+      "width": 3837,
+      "height": 2918,
+      "format": "jpg",
+      "bytes": 2380678
+    },
+    "/Destination/Thailand/grand palace.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082373/Destination/Thailand/grand%20palace.avif",
+      "publicId": "Destination/Thailand/grand palace",
+      "width": 600,
+      "height": 338,
+      "format": "avif",
+      "bytes": 50375
+    },
+    "/Destination/Thailand/doi suthep temple.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082373/Destination/Thailand/doi%20suthep%20temple.avif",
+      "publicId": "Destination/Thailand/doi suthep temple",
+      "width": 1174,
+      "height": 780,
+      "format": "avif",
+      "bytes": 242002
+    },
+    "/Destination/singaporeHero/image4.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082375/Destination/singaporeHero/image4.jpg",
+      "publicId": "Destination/singaporeHero/image4",
+      "width": 6000,
+      "height": 4000,
+      "format": "jpg",
+      "bytes": 2068837
+    },
+    "/Destination/singaporeHero/image3.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082375/Destination/singaporeHero/image3.jpg",
+      "publicId": "Destination/singaporeHero/image3",
+      "width": 6000,
+      "height": 4000,
+      "format": "jpg",
+      "bytes": 3594206
+    },
+    "/Destination/Thailand/wat arun temple.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082378/Destination/Thailand/wat%20arun%20temple.avif",
+      "publicId": "Destination/Thailand/wat arun temple",
+      "width": 600,
+      "height": 600,
+      "format": "avif",
+      "bytes": 54338
+    },
+    "/Destination/Thailand/phi phi island.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082378/Destination/Thailand/phi%20phi%20island.avif",
+      "publicId": "Destination/Thailand/phi phi island",
+      "width": 600,
+      "height": 450,
+      "format": "avif",
+      "bytes": 34811
+    },
+    "/Destination/Thailand/krabi.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082378/Destination/Thailand/krabi.avif",
+      "publicId": "Destination/Thailand/krabi",
+      "width": 600,
+      "height": 450,
+      "format": "avif",
+      "bytes": 93398
+    },
+    "/Destination/Thailand/railay beach.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082378/Destination/Thailand/railay%20beach.avif",
+      "publicId": "Destination/Thailand/railay beach",
+      "width": 735,
+      "height": 980,
+      "format": "avif",
+      "bytes": 188564
+    },
+    "/Destination/Thailand/wat pho.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082381/Destination/Thailand/wat%20pho.avif",
+      "publicId": "Destination/Thailand/wat pho",
+      "width": 735,
+      "height": 980,
+      "format": "avif",
+      "bytes": 191157
+    },
+    "/Destination/Thailand.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082383/Destination/Thailand.jpg",
+      "publicId": "Destination/Thailand",
+      "width": 736,
+      "height": 736,
+      "format": "jpg",
+      "bytes": 109364
+    },
+    "/Destination/ThailandHero/image1.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082383/Destination/ThailandHero/image1.jpg",
+      "publicId": "Destination/ThailandHero/image1",
+      "width": 5184,
+      "height": 3456,
+      "format": "jpg",
+      "bytes": 1107833
+    },
+    "/Destination/ThailandHero/image2.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082384/Destination/ThailandHero/image2.jpg",
+      "publicId": "Destination/ThailandHero/image2",
+      "width": 6000,
+      "height": 4000,
+      "format": "jpg",
+      "bytes": 3229937
+    },
+    "/Destination/Thailand/Wat Rong Suea Ten.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082383/Destination/Thailand/Wat%20Rong%20Suea%20Ten.avif",
+      "publicId": "Destination/Thailand/Wat Rong Suea Ten",
+      "width": 1178,
+      "height": 779,
+      "format": "avif",
+      "bytes": 195729
+    },
+    "/Destination/ThailandHero/image3.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082385/Destination/ThailandHero/image3.jpg",
+      "publicId": "Destination/ThailandHero/image3",
+      "width": 6000,
+      "height": 4000,
+      "format": "jpg",
+      "bytes": 1722003
+    },
+    "/Destination/veitnamHero/Hoi An Lantern.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082387/Destination/veitnamHero/Hoi%20An%20Lantern.jpg",
+      "publicId": "Destination/veitnamHero/Hoi An Lantern",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 336771
+    },
+    "/Destination/veitnamHero/Halong Bay.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082388/Destination/veitnamHero/Halong%20Bay.jpg",
+      "publicId": "Destination/veitnamHero/Halong Bay",
+      "width": 3984,
+      "height": 2656,
+      "format": "jpg",
+      "bytes": 1799178
+    },
+    "/Destination/veitnamHero/Golden Bridge.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082389/Destination/veitnamHero/Golden%20Bridge.jpg",
+      "publicId": "Destination/veitnamHero/Golden Bridge",
+      "width": 6000,
+      "height": 4000,
+      "format": "jpg",
+      "bytes": 2583060
+    },
+    "/Destination/ThailandHero/image4.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082389/Destination/ThailandHero/image4.jpg",
+      "publicId": "Destination/ThailandHero/image4",
+      "width": 5760,
+      "height": 3840,
+      "format": "jpg",
+      "bytes": 4352988
+    },
+    "/Destination/veitnamHero/Mekong River Delta.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082392/Destination/veitnamHero/Mekong%20River%20Delta.jpg",
+      "publicId": "Destination/veitnamHero/Mekong River Delta",
+      "width": 6830,
+      "height": 5110,
+      "format": "jpg",
+      "bytes": 5150520
+    },
+    "/Destination/Vietnam/golden bridge.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082395/Destination/Vietnam/golden%20bridge.avif",
+      "publicId": "Destination/Vietnam/golden bridge",
+      "width": 1170,
+      "height": 780,
+      "format": "avif",
+      "bytes": 179601
+    },
+    "/Destination/Vietnam/Golden Bridge.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082395/Destination/Vietnam/golden%20bridge.avif",
+      "publicId": "Destination/Vietnam/golden bridge",
+      "width": 1170,
+      "height": 780,
+      "format": "avif",
+      "bytes": 179601
+    },
+    "/Destination/veitnamHero/notre dame cathedral.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082397/Destination/veitnamHero/notre%20dame%20cathedral.jpg",
+      "publicId": "Destination/veitnamHero/notre dame cathedral",
+      "width": 7319,
+      "height": 3400,
+      "format": "jpg",
+      "bytes": 2971816
+    },
+    "/Destination/Vietnam/haloang bay.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082398/Destination/Vietnam/haloang%20bay.avif",
+      "publicId": "Destination/Vietnam/haloang bay",
+      "width": 1026,
+      "height": 821,
+      "format": "avif",
+      "bytes": 134068
+    },
+    "/Destination/Vietnam/Halong Bay.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082401/Destination/Vietnam/Halong%20Bay.jpg",
+      "publicId": "Destination/Vietnam/Halong Bay",
+      "width": 3984,
+      "height": 2656,
+      "format": "jpg",
+      "bytes": 1799178
+    },
+    "/Destination/Vietnam/mekong delta.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082403/Destination/Vietnam/mekong%20delta.avif",
+      "publicId": "Destination/Vietnam/mekong delta",
+      "width": 735,
+      "height": 980,
+      "format": "avif",
+      "bytes": 281544
+    },
+    "/Destination/Vietnam/hoan kiem lake.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082403/Destination/Vietnam/hoan%20kiem%20lake.avif",
+      "publicId": "Destination/Vietnam/hoan kiem lake",
+      "width": 1170,
+      "height": 780,
+      "format": "avif",
+      "bytes": 111373
+    },
+    "/Destination/Vietnam/Hoi An Lantern.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082404/Destination/Vietnam/Hoi%20An%20Lantern.jpg",
+      "publicId": "Destination/Vietnam/Hoi An Lantern",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 336771
+    },
+    "/Destination/Vietnam/ngoc sun temple.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082407/Destination/Vietnam/ngoc%20sun%20temple.avif",
+      "publicId": "Destination/Vietnam/ngoc sun temple",
+      "width": 1170,
+      "height": 780,
+      "format": "avif",
+      "bytes": 214300
+    },
+    "/Destination/Vietnam/Mekong River Delta.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082425/Destination/Vietnam/Mekong%20River%20Delta.jpg",
+      "publicId": "Destination/Vietnam/Mekong River Delta",
+      "width": 6830,
+      "height": 5110,
+      "format": "jpg",
+      "bytes": 5150520
+    },
+    "/Destination/Vietnam/ninh binh.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082428/Destination/Vietnam/ninh%20binh.avif",
+      "publicId": "Destination/Vietnam/ninh binh",
+      "width": 734,
+      "height": 981,
+      "format": "avif",
+      "bytes": 135988
+    },
+    "/Destination/Vietnam/photo-1533497394934-b33cd9695ba9.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082430/Destination/Vietnam/photo-1533497394934-b33cd9695ba9.avif",
+      "publicId": "Destination/Vietnam/photo-1533497394934-b33cd9695ba9",
+      "width": 600,
+      "height": 400,
+      "format": "avif",
+      "bytes": 73544
+    },
+    "/Destination/Vietnam.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082431/Destination/Vietnam.jpg",
+      "publicId": "Destination/Vietnam",
+      "width": 736,
+      "height": 1104,
+      "format": "jpg",
+      "bytes": 147022
+    },
+    "/Destination/Vietnam/phu quoc beaches.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082431/Destination/Vietnam/phu%20quoc%20beaches.avif",
+      "publicId": "Destination/Vietnam/phu quoc beaches",
+      "width": 1332,
+      "height": 749,
+      "format": "avif",
+      "bytes": 392526
+    },
+    "/Destination/Vietnam/notre dame cathedral.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082434/Destination/Vietnam/notre%20dame%20cathedral.jpg",
+      "publicId": "Destination/Vietnam/notre dame cathedral",
+      "width": 7319,
+      "height": 3400,
+      "format": "jpg",
+      "bytes": 2971816
+    },
+    "/emojis/emoji 1.png": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082437/emojis/emoji%201.png",
+      "publicId": "emojis/emoji 1",
+      "width": 158,
+      "height": 158,
+      "format": "png",
+      "bytes": 16605
+    },
+    "/emojis/facebook 1.png": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082437/emojis/facebook%201.png",
+      "publicId": "emojis/facebook 1",
+      "width": 164,
+      "height": 164,
+      "format": "png",
+      "bytes": 13751
+    },
+    "/emojis/facebook 2.png": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082437/emojis/facebook%202.png",
+      "publicId": "emojis/facebook 2",
+      "width": 202,
+      "height": 202,
+      "format": "png",
+      "bytes": 17416
+    },
+    "/emojis/smile 2.png": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082438/emojis/smile%202.png",
+      "publicId": "emojis/smile 2",
+      "width": 159,
+      "height": 159,
+      "format": "png",
+      "bytes": 12285
+    },
+    "/Feedback/WhatsApp Video 2024-01-11 at 17.30.52.mp4": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/video/upload/v1762082455/Feedback/WhatsApp%20Video%202024-01-11%20at%2017.30.52.mp4",
+      "publicId": "Feedback/WhatsApp Video 2024-01-11 at 17.30.52",
+      "width": 848,
+      "height": 480,
+      "format": "mp4",
+      "bytes": 20839834
+    },
+    "/Feedback/WhatsApp Video 2024-02-04 at 11.25.08_c07f3aa1 - Copy.mp4": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/video/upload/v1762082476/Feedback/WhatsApp%20Video%202024-02-04%20at%2011.25.08_c07f3aa1%20-%20Copy.mp4",
+      "publicId": "Feedback/WhatsApp Video 2024-02-04 at 11.25.08_c07f3aa1 - Copy",
+      "width": 480,
+      "height": 864,
+      "format": "mp4",
+      "bytes": 23162371
+    },
+    "/Feedback/WhatsApp Video 2024-02-07 at 10.41.36_4ad3e94e.mp4": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/video/upload/v1762082486/Feedback/WhatsApp%20Video%202024-02-07%20at%2010.41.36_4ad3e94e.mp4",
+      "publicId": "Feedback/WhatsApp Video 2024-02-07 at 10.41.36_4ad3e94e",
+      "width": 848,
+      "height": 480,
+      "format": "mp4",
+      "bytes": 15262058
+    },
+    "/Feedback/WhatsApp Video 2024-02-19 at 15.45.20_033f8a8d.mp4": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/video/upload/v1762082490/Feedback/WhatsApp%20Video%202024-02-19%20at%2015.45.20_033f8a8d.mp4",
+      "publicId": "Feedback/WhatsApp Video 2024-02-19 at 15.45.20_033f8a8d",
+      "width": 720,
+      "height": 1280,
+      "format": "mp4",
+      "bytes": 15576723
+    },
+    "/Feedback/WhatsApp Video 2024-02-13 at 12.31.16_ceaaf7b3.mp4": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/video/upload/v1762082491/Feedback/WhatsApp%20Video%202024-02-13%20at%2012.31.16_ceaaf7b3.mp4",
+      "publicId": "Feedback/WhatsApp Video 2024-02-13 at 12.31.16_ceaaf7b3",
+      "width": 848,
+      "height": 480,
+      "format": "mp4",
+      "bytes": 19539313
+    },
+    "/Feedback/WhatsApp Video 2024-02-21 at 16.23.19_fd0537da.mp4": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/video/upload/v1762082499/Feedback/WhatsApp%20Video%202024-02-21%20at%2016.23.19_fd0537da.mp4",
+      "publicId": "Feedback/WhatsApp Video 2024-02-21 at 16.23.19_fd0537da",
+      "width": 1280,
+      "height": 720,
+      "format": "mp4",
+      "bytes": 33756490
+    },
+    "/Feedback/WhatsApp Video 2024-05-07 at 17.06.28_77a16445.mp4": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/video/upload/v1762082518/Feedback/WhatsApp%20Video%202024-05-07%20at%2017.06.28_77a16445.mp4",
+      "publicId": "Feedback/WhatsApp Video 2024-05-07 at 17.06.28_77a16445",
+      "width": 848,
+      "height": 480,
+      "format": "mp4",
+      "bytes": 8185875
+    },
+    "/Feedback/WhatsApp Video 2024-06-30 at 2.51.20 PM (1).mp4": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/video/upload/v1762082518/Feedback/WhatsApp%20Video%202024-06-30%20at%202.51.20%20PM%20%281%29.mp4",
+      "publicId": "Feedback/WhatsApp Video 2024-06-30 at 2.51.20 PM (1)",
+      "width": 848,
+      "height": 480,
+      "format": "mp4",
+      "bytes": 7273377
+    },
+    "/Feedback/WhatsApp Video 2024-06-10 at 12.44.27_c8380109.mp4": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/video/upload/v1762082519/Feedback/WhatsApp%20Video%202024-06-10%20at%2012.44.27_c8380109.mp4",
+      "publicId": "Feedback/WhatsApp Video 2024-06-10 at 12.44.27_c8380109",
+      "width": 848,
+      "height": 478,
+      "format": "mp4",
+      "bytes": 10959110
+    },
+    "/Feedback/WhatsApp Video 2024-06-10 at 18.59.20_bc8fc374.mp4": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/video/upload/v1762082526/Feedback/WhatsApp%20Video%202024-06-10%20at%2018.59.20_bc8fc374.mp4",
+      "publicId": "Feedback/WhatsApp Video 2024-06-10 at 18.59.20_bc8fc374",
+      "width": 480,
+      "height": 848,
+      "format": "mp4",
+      "bytes": 16829311
+    },
+    "/Feedback/WhatsApp Video 2024-04-24 at 20.06.07_e81e8432.mp4": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/video/upload/v1762082537/Feedback/WhatsApp%20Video%202024-04-24%20at%2020.06.07_e81e8432.mp4",
+      "publicId": "Feedback/WhatsApp Video 2024-04-24 at 20.06.07_e81e8432",
+      "width": 720,
+      "height": 1280,
+      "format": "mp4",
+      "bytes": 25549806
+    },
+    "/Feedback/WhatsApp Video 2024-11-18 at 1.22.46 PM.mp4": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/video/upload/v1762082549/Feedback/WhatsApp%20Video%202024-11-18%20at%201.22.46%20PM.mp4",
+      "publicId": "Feedback/WhatsApp Video 2024-11-18 at 1.22.46 PM",
+      "width": 480,
+      "height": 848,
+      "format": "mp4",
+      "bytes": 15535350
+    },
+    "/Feedback/WhatsApp Video 2025-07-21 at 16.37.54.mp4": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/video/upload/v1762082563/Feedback/WhatsApp%20Video%202025-07-21%20at%2016.37.54.mp4",
+      "publicId": "Feedback/WhatsApp Video 2025-07-21 at 16.37.54",
+      "width": 464,
+      "height": 832,
+      "format": "mp4",
+      "bytes": 3470489
+    },
+    "/Feedback/WhatsApp Video 2024-12-28 at 7.06.55 PM.mp4": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/video/upload/v1762082577/Feedback/WhatsApp%20Video%202024-12-28%20at%207.06.55%20PM.mp4",
+      "publicId": "Feedback/WhatsApp Video 2024-12-28 at 7.06.55 PM",
+      "width": 480,
+      "height": 640,
+      "format": "mp4",
+      "bytes": 13091283
+    },
+    "/Feedback/WhatsApp Video 2025-07-17 at 6.17.29 PM.mp4": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/video/upload/v1762082586/Feedback/WhatsApp%20Video%202025-07-17%20at%206.17.29%20PM.mp4",
+      "publicId": "Feedback/WhatsApp Video 2025-07-17 at 6.17.29 PM",
+      "width": 608,
+      "height": 1312,
+      "format": "mp4",
+      "bytes": 13385713
+    },
+    "/Feedback/WhatsApp Video 2024-12-23 at 6.27.27 PM.mp4": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/video/upload/v1762082596/Feedback/WhatsApp%20Video%202024-12-23%20at%206.27.27%20PM.mp4",
+      "publicId": "Feedback/WhatsApp Video 2024-12-23 at 6.27.27 PM",
+      "width": 720,
+      "height": 1280,
+      "format": "mp4",
+      "bytes": 21192015
+    },
+    "/Feedback/WhatsApp Video 2025-07-21 at 4.11.07 PM.mp4": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/video/upload/v1762082606/Feedback/WhatsApp%20Video%202025-07-21%20at%204.11.07%20PM.mp4",
+      "publicId": "Feedback/WhatsApp Video 2025-07-21 at 4.11.07 PM",
+      "width": 480,
+      "height": 848,
+      "format": "mp4",
+      "bytes": 3162230
+    },
+    "/Feedback/WhatsApp Video 2025-07-21 at 4.11.29 PM.mp4": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/video/upload/v1762082610/Feedback/WhatsApp%20Video%202025-07-21%20at%204.11.29%20PM.mp4",
+      "publicId": "Feedback/WhatsApp Video 2025-07-21 at 4.11.29 PM",
+      "width": 478,
+      "height": 850,
+      "format": "mp4",
+      "bytes": 10005644
+    },
+    "/Feedback/WhatsApp Video 2025-07-21 at 4.08.12 PM.mp4": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/video/upload/v1762082613/Feedback/WhatsApp%20Video%202025-07-21%20at%204.08.12%20PM.mp4",
+      "publicId": "Feedback/WhatsApp Video 2025-07-21 at 4.08.12 PM",
+      "width": 848,
+      "height": 480,
+      "format": "mp4",
+      "bytes": 3861740
+    },
+    "/Feedback/WhatsApp Video 2025-07-21 at 4.05.00 PM.mp4": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/video/upload/v1762082615/Feedback/WhatsApp%20Video%202025-07-21%20at%204.05.00%20PM.mp4",
+      "publicId": "Feedback/WhatsApp Video 2025-07-21 at 4.05.00 PM",
+      "width": 720,
+      "height": 1280,
+      "format": "mp4",
+      "bytes": 30339987
+    },
+    "/Feedback/WhatsApp Video 2025-07-21 at 4.08.19 PM.mp4": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/video/upload/v1762082639/Feedback/WhatsApp%20Video%202025-07-21%20at%204.08.19%20PM.mp4",
+      "publicId": "Feedback/WhatsApp Video 2025-07-21 at 4.08.19 PM",
+      "width": 720,
+      "height": 1280,
+      "format": "mp4",
+      "bytes": 33679369
+    },
+    "/icons/Bali.png": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082645/icons/Bali.png",
+      "publicId": "icons/Bali",
+      "width": 234,
+      "height": 220,
+      "format": "png",
+      "bytes": 33816
+    },
+    "/icons/Andaman.png": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082645/icons/Andaman.png",
+      "publicId": "icons/Andaman",
+      "width": 229,
+      "height": 203,
+      "format": "png",
+      "bytes": 26970
+    },
+    "/Feedback/WhatsApp Video 2025-07-21 at 4.13.07 PM.mp4": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/video/upload/v1762082647/Feedback/WhatsApp%20Video%202025-07-21%20at%204.13.07%20PM.mp4",
+      "publicId": "Feedback/WhatsApp Video 2025-07-21 at 4.13.07 PM",
+      "width": 720,
+      "height": 1280,
+      "format": "mp4",
+      "bytes": 10373705
+    },
+    "/Footer.png": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082654/Footer.png",
+      "publicId": "Footer",
+      "width": 2635,
+      "height": 1110,
+      "format": "png",
+      "bytes": 4546232
+    },
+    "/Feedback/WhatsApp Video.mp4": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/video/upload/v1762082664/Feedback/WhatsApp%20Video.mp4",
+      "publicId": "Feedback/WhatsApp Video",
+      "width": 480,
+      "height": 848,
+      "format": "mp4",
+      "bytes": 15645954
+    },
+    "/icons/Dubai.png": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082667/icons/Dubai.png",
+      "publicId": "icons/Dubai",
+      "width": 188,
+      "height": 188,
+      "format": "png",
+      "bytes": 17212
+    },
+    "/icons/Singapore.png": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082669/icons/Singapore.png",
+      "publicId": "icons/Singapore",
+      "width": 243,
+      "height": 255,
+      "format": "png",
+      "bytes": 32301
+    },
+    "/icons/malaysia.png": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082669/icons/malaysia.png",
+      "publicId": "icons/malaysia",
+      "width": 238,
+      "height": 270,
+      "format": "png",
+      "bytes": 27772
+    },
+    "/icons/Thailand.png": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082669/icons/Thailand.png",
+      "publicId": "icons/Thailand",
+      "width": 157,
+      "height": 206,
+      "format": "png",
+      "bytes": 22613
+    },
+    "/icons/Maldives.png": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082670/icons/Maldives.png",
+      "publicId": "icons/Maldives",
+      "width": 387,
+      "height": 273,
+      "format": "png",
+      "bytes": 98171
+    },
+    "/lugage.png": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082672/lugage.png",
+      "publicId": "lugage",
+      "width": 175,
+      "height": 174,
+      "format": "png",
+      "bytes": 50490
+    },
+    "/icons/Veitnam.png": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082672/icons/Veitnam.png",
+      "publicId": "icons/Veitnam",
+      "width": 210,
+      "height": 195,
+      "format": "png",
+      "bytes": 35677
+    },
+    "/mystical_coastline/dubai.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082672/mystical_coastline/dubai.jpg",
+      "publicId": "mystical_coastline/dubai",
+      "width": 8192,
+      "height": 5461,
+      "format": "jpg",
+      "bytes": 1698756
+    },
+    "/mystical_coastline/andaman.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082674/mystical_coastline/andaman.jpg",
+      "publicId": "mystical_coastline/andaman",
+      "width": 4681,
+      "height": 2632,
+      "format": "jpg",
+      "bytes": 2202345
+    },
+    "/mystical_coastline/Bali.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082674/mystical_coastline/Bali.jpg",
+      "publicId": "mystical_coastline/Bali",
+      "width": 4000,
+      "height": 6000,
+      "format": "jpg",
+      "bytes": 4676505
+    },
+    "/mystical_coastline/malaysia.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082677/mystical_coastline/malaysia.jpg",
+      "publicId": "mystical_coastline/malaysia",
+      "width": 3000,
+      "height": 2000,
+      "format": "jpg",
+      "bytes": 460210
+    },
+    "/mystical_coastline/singapore.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082678/mystical_coastline/singapore.jpg",
+      "publicId": "mystical_coastline/singapore",
+      "width": 3024,
+      "height": 3780,
+      "format": "jpg",
+      "bytes": 1650174
+    },
+    "/mystical_coastline/veitnam.webp": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082678/mystical_coastline/veitnam.webp",
+      "publicId": "mystical_coastline/veitnam",
+      "width": 2048,
+      "height": 1365,
+      "format": "webp",
+      "bytes": 423126
+    },
+    "/mystical_coastline/Maldives.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082678/mystical_coastline/Maldives.jpg",
+      "publicId": "mystical_coastline/Maldives",
+      "width": 5184,
+      "height": 3152,
+      "format": "jpg",
+      "bytes": 2791235
+    },
+    "/mystical_coastline/thailand.jpg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082679/mystical_coastline/thailand.jpg",
+      "publicId": "mystical_coastline/thailand",
+      "width": 4000,
+      "height": 2250,
+      "format": "jpg",
+      "bytes": 1060599
+    },
+    "/TravelVibes/Adventure.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082682/TravelVibes/Adventure.jpg",
+      "publicId": "TravelVibes/Adventure",
+      "width": 736,
+      "height": 919,
+      "format": "jpg",
+      "bytes": 98445
+    },
+    "/TravelVibes/Family.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082682/TravelVibes/Family.jpg",
+      "publicId": "TravelVibes/Family",
+      "width": 736,
+      "height": 1104,
+      "format": "jpg",
+      "bytes": 129193
+    },
+    "/Person.png": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082682/Person.png",
+      "publicId": "Person",
+      "width": 564,
+      "height": 777,
+      "format": "png",
+      "bytes": 289808
+    },
+    "/TravelVibes/BeachHoliday.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082682/TravelVibes/BeachHoliday.jpg",
+      "publicId": "TravelVibes/BeachHoliday",
+      "width": 736,
+      "height": 552,
+      "format": "jpg",
+      "bytes": 62884
+    },
+    "/RomanticBG.png": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082683/RomanticBG.png",
+      "publicId": "RomanticBG",
+      "width": 2635,
+      "height": 1289,
+      "format": "png",
+      "bytes": 3467925
+    },
+    "/TravelVibes/HillStation.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082685/TravelVibes/HillStation.jpg",
+      "publicId": "TravelVibes/HillStation",
+      "width": 736,
+      "height": 920,
+      "format": "jpg",
+      "bytes": 160084
+    },
+    "/TravelVibes/honeyMoon.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082685/TravelVibes/honeyMoon.jpg",
+      "publicId": "TravelVibes/honeyMoon",
+      "width": 704,
+      "height": 1024,
+      "format": "jpg",
+      "bytes": 146003
+    },
+    "/tripPics.png": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082685/tripPics.png",
+      "publicId": "tripPics",
+      "width": 744,
+      "height": 762,
+      "format": "png",
+      "bytes": 702428
+    },
+    "/TravelVibes/GroupTravel.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082685/TravelVibes/GroupTravel.jpg",
+      "publicId": "TravelVibes/GroupTravel",
+      "width": 736,
+      "height": 1104,
+      "format": "jpg",
+      "bytes": 112840
+    },
+    "/uploads/andaman/package_1757616748903.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082689/uploads/andaman/package_1757616748903.jpg",
+      "publicId": "uploads/andaman/package_1757616748903",
+      "width": 6000,
+      "height": 4000,
+      "format": "jpg",
+      "bytes": 3966992
+    },
+    "/uploads/bali/1757008743478_Bali6.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082691/uploads/bali/1757008743478_Bali6.jpg",
+      "publicId": "uploads/bali/1757008743478_Bali6",
+      "width": 720,
+      "height": 1280,
+      "format": "jpg",
+      "bytes": 209524
+    },
+    "/uploads/bali/1757008542960_Bali7.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082693/uploads/bali/1757008542960_Bali7.jpg",
+      "publicId": "uploads/bali/1757008542960_Bali7",
+      "width": 4000,
+      "height": 6000,
+      "format": "jpg",
+      "bytes": 4676505
+    },
+    "/uploads/bali/1757008305491_Bali7.jpg.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082693/uploads/bali/1757008305491_Bali7.jpg.jpg",
+      "publicId": "uploads/bali/1757008305491_Bali7.jpg",
+      "width": 4000,
+      "height": 6000,
+      "format": "jpg",
+      "bytes": 4676505
+    },
+    "/uploads/bali/1757008342358_Bali8.jpg.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082694/uploads/bali/1757008342358_Bali8.jpg.jpg",
+      "publicId": "uploads/bali/1757008342358_Bali8.jpg",
+      "width": 4000,
+      "height": 5000,
+      "format": "jpg",
+      "bytes": 2410871
+    },
+    "/uploads/bali/package_1757143787691.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082696/uploads/bali/package_1757143787691.jpg",
+      "publicId": "uploads/bali/package_1757143787691",
+      "width": 5879,
+      "height": 3919,
+      "format": "jpg",
+      "bytes": 2253625
+    },
+    "/uploads/bali/package_1757182084596.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082699/uploads/bali/package_1757182084596.jpg",
+      "publicId": "uploads/bali/package_1757182084596",
+      "width": 720,
+      "height": 1280,
+      "format": "jpg",
+      "bytes": 209524
+    },
+    "/uploads/bali/package_1757438081260.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082700/uploads/bali/package_1757438081260.jpg",
+      "publicId": "uploads/bali/package_1757438081260",
+      "width": 5879,
+      "height": 3919,
+      "format": "jpg",
+      "bytes": 2253625
+    },
+    "/uploads/bali/package_1757438052317.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082701/uploads/bali/package_1757438052317.jpg",
+      "publicId": "uploads/bali/package_1757438052317",
+      "width": 5879,
+      "height": 3919,
+      "format": "jpg",
+      "bytes": 2253625
+    },
+    "/uploads/bali/package_1757182056413.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082701/uploads/bali/package_1757182056413.jpg",
+      "publicId": "uploads/bali/package_1757182056413",
+      "width": 5472,
+      "height": 3648,
+      "format": "jpg",
+      "bytes": 4925829
+    },
+    "/uploads/bali/package_1757438254651.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082707/uploads/bali/package_1757438254651.jpg",
+      "publicId": "uploads/bali/package_1757438254651",
+      "width": 5879,
+      "height": 3919,
+      "format": "jpg",
+      "bytes": 2253625
+    },
+    "/uploads/bali/package_1757439274716.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082710/uploads/bali/package_1757439274716.jpg",
+      "publicId": "uploads/bali/package_1757439274716",
+      "width": 4000,
+      "height": 5000,
+      "format": "jpg",
+      "bytes": 2410871
+    },
+    "/uploads/bali/package_1757842241287_02ozrt.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082714/uploads/bali/package_1757842241287_02ozrt.jpg",
+      "publicId": "uploads/bali/package_1757842241287_02ozrt",
+      "width": 4908,
+      "height": 2761,
+      "format": "jpg",
+      "bytes": 2749138
+    },
+    "/uploads/bali/package_1757696106973_elfyan.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082716/uploads/bali/package_1757696106973_elfyan.jpg",
+      "publicId": "uploads/bali/package_1757696106973_elfyan",
+      "width": 6000,
+      "height": 4000,
+      "format": "jpg",
+      "bytes": 3157781
+    },
+    "/uploads/bali/package_1757708547270_bfcdjr.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082716/uploads/bali/package_1757708547270_bfcdjr.jpg",
+      "publicId": "uploads/bali/package_1757708547270_bfcdjr",
+      "width": 6000,
+      "height": 4000,
+      "format": "jpg",
+      "bytes": 3966992
+    },
+    "/uploads/dubai/package_1757530656374.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082716/uploads/dubai/package_1757530656374.jpg",
+      "publicId": "uploads/dubai/package_1757530656374",
+      "width": 4777,
+      "height": 8192,
+      "format": "jpg",
+      "bytes": 4457042
+    },
+    "/uploads/malaysia/package_1757531485746.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082719/uploads/malaysia/package_1757531485746.jpg",
+      "publicId": "uploads/malaysia/package_1757531485746",
+      "width": 736,
+      "height": 920,
+      "format": "jpg",
+      "bytes": 145488
+    },
+    "/uploads/dubai/package_1757531592594.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082720/uploads/dubai/package_1757531592594.jpg",
+      "publicId": "uploads/dubai/package_1757531592594",
+      "width": 3024,
+      "height": 4032,
+      "format": "jpg",
+      "bytes": 2437376
+    },
+    "/uploads/dubai/package_1757531605602.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082719/uploads/dubai/package_1757531605602.jpg",
+      "publicId": "uploads/dubai/package_1757531605602",
+      "width": 4823,
+      "height": 3194,
+      "format": "jpg",
+      "bytes": 1628214
+    },
+    "/uploads/malaysia/package_1757531521527.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082727/uploads/malaysia/package_1757531521527.jpg",
+      "publicId": "uploads/malaysia/package_1757531521527",
+      "width": 6317,
+      "height": 4480,
+      "format": "jpg",
+      "bytes": 4441225
+    },
+    "/uploads/malaysia/package_1757531537904.webp": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082732/uploads/malaysia/package_1757531537904.webp",
+      "publicId": "uploads/malaysia/package_1757531537904",
+      "width": 1920,
+      "height": 1280,
+      "format": "webp",
+      "bytes": 646816
+    },
+    "/uploads/malaysia/package_1757531552375.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082734/uploads/malaysia/package_1757531552375.jpg",
+      "publicId": "uploads/malaysia/package_1757531552375",
+      "width": 4000,
+      "height": 6000,
+      "format": "jpg",
+      "bytes": 3716464
+    },
+    "/uploads/maldives/package_1757531698735.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082735/uploads/maldives/package_1757531698735.jpg",
+      "publicId": "uploads/maldives/package_1757531698735",
+      "width": 1024,
+      "height": 683,
+      "format": "jpg",
+      "bytes": 91140
+    },
+    "/uploads/maldives/package_1757531654909.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082735/uploads/maldives/package_1757531654909.jpg",
+      "publicId": "uploads/maldives/package_1757531654909",
+      "width": 735,
+      "height": 919,
+      "format": "jpg",
+      "bytes": 169793
+    },
+    "/uploads/maldives/package_1757531683268.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082736/uploads/maldives/package_1757531683268.jpg",
+      "publicId": "uploads/maldives/package_1757531683268",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "bytes": 234304
+    },
+    "/uploads/maldives/package_1757531713845.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082739/uploads/maldives/package_1757531713845.jpg",
+      "publicId": "uploads/maldives/package_1757531713845",
+      "width": 5464,
+      "height": 3640,
+      "format": "jpg",
+      "bytes": 1887016
+    },
+    "/uploads/maldives/package_1757616120441.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082739/uploads/maldives/package_1757616120441.jpg",
+      "publicId": "uploads/maldives/package_1757616120441",
+      "width": 4000,
+      "height": 6000,
+      "format": "jpg",
+      "bytes": 2083814
+    },
+    "/uploads/package-1757441433196.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082740/uploads/package-1757441433196.jpg",
+      "publicId": "uploads/package-1757441433196",
+      "width": 5879,
+      "height": 3919,
+      "format": "jpg",
+      "bytes": 2253625
+    },
+    "/uploads/package-1757599362557.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082739/uploads/package-1757599362557.jpg",
+      "publicId": "uploads/package-1757599362557",
+      "width": 4000,
+      "height": 5000,
+      "format": "jpg",
+      "bytes": 2410871
+    },
+    "/uploads/package-1757599185495.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082742/uploads/package-1757599185495.jpg",
+      "publicId": "uploads/package-1757599185495",
+      "width": 5472,
+      "height": 3648,
+      "format": "jpg",
+      "bytes": 4925829
+    },
+    "/uploads/singapore/package_1757530912781.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082745/uploads/singapore/package_1757530912781.jpg",
+      "publicId": "uploads/singapore/package_1757530912781",
+      "width": 736,
+      "height": 736,
+      "format": "jpg",
+      "bytes": 138668
+    },
+    "/uploads/singapore/package_1757531210962.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082745/uploads/singapore/package_1757531210962.jpg",
+      "publicId": "uploads/singapore/package_1757531210962",
+      "width": 736,
+      "height": 736,
+      "format": "jpg",
+      "bytes": 138668
+    },
+    "/uploads/package-1757600273020.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082746/uploads/package-1757600273020.jpg",
+      "publicId": "uploads/package-1757600273020",
+      "width": 4908,
+      "height": 2761,
+      "format": "jpg",
+      "bytes": 2749138
+    },
+    "/uploads/package-1757599385984.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082750/uploads/package-1757599385984.jpg",
+      "publicId": "uploads/package-1757599385984",
+      "width": 4000,
+      "height": 6000,
+      "format": "jpg",
+      "bytes": 4676505
+    },
+    "/uploads/package-1757600181841.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082759/uploads/package-1757600181841.jpg",
+      "publicId": "uploads/package-1757600181841",
+      "width": 8957,
+      "height": 6034,
+      "format": "jpg",
+      "bytes": 9327183
+    },
+    "/uploads/singapore/package_1757696371924.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082764/uploads/singapore/package_1757696371924.jpg",
+      "publicId": "uploads/singapore/package_1757696371924",
+      "width": 6000,
+      "height": 4000,
+      "format": "jpg",
+      "bytes": 3157781
+    },
+    "/uploads/thailand/package_1757062697731.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082766/uploads/thailand/package_1757062697731.avif",
+      "publicId": "uploads/thailand/package_1757062697731",
+      "width": 1174,
+      "height": 780,
+      "format": "avif",
+      "bytes": 242002
+    },
+    "/uploads/singapore/package_1757697822192_vb3r6n.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082768/uploads/singapore/package_1757697822192_vb3r6n.jpg",
+      "publicId": "uploads/singapore/package_1757697822192_vb3r6n",
+      "width": 4908,
+      "height": 2761,
+      "format": "jpg",
+      "bytes": 2749138
+    },
+    "/uploads/singapore/package_1757698859887.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082768/uploads/singapore/package_1757698859887.jpg",
+      "publicId": "uploads/singapore/package_1757698859887",
+      "width": 6000,
+      "height": 4000,
+      "format": "jpg",
+      "bytes": 3966992
+    },
+    "/uploads/singapore/package_1757697388532_7s1cy5.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082769/uploads/singapore/package_1757697388532_7s1cy5.jpg",
+      "publicId": "uploads/singapore/package_1757697388532_7s1cy5",
+      "width": 6000,
+      "height": 4000,
+      "format": "jpg",
+      "bytes": 3966992
+    },
+    "/uploads/thailand/package_1757062719741.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082771/uploads/thailand/package_1757062719741.jpg",
+      "publicId": "uploads/thailand/package_1757062719741",
+      "width": 736,
+      "height": 736,
+      "format": "jpg",
+      "bytes": 109364
+    },
+    "/uploads/thailand/package_1757062722229.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082772/uploads/thailand/package_1757062722229.avif",
+      "publicId": "uploads/thailand/package_1757062722229",
+      "width": 1174,
+      "height": 780,
+      "format": "avif",
+      "bytes": 242002
+    },
+    "/uploads/thailand/package_1757062697891.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082771/uploads/thailand/package_1757062697891.avif",
+      "publicId": "uploads/thailand/package_1757062697891",
+      "width": 1174,
+      "height": 780,
+      "format": "avif",
+      "bytes": 242002
+    },
+    "/uploads/thailand/package_1757062722419.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082772/uploads/thailand/package_1757062722419.avif",
+      "publicId": "uploads/thailand/package_1757062722419",
+      "width": 1174,
+      "height": 780,
+      "format": "avif",
+      "bytes": 242002
+    },
+    "/uploads/thailand/package_1757062725713.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082775/uploads/thailand/package_1757062725713.avif",
+      "publicId": "uploads/thailand/package_1757062725713",
+      "width": 1174,
+      "height": 780,
+      "format": "avif",
+      "bytes": 242002
+    },
+    "/uploads/thailand/package_1757139785372.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082777/uploads/thailand/package_1757139785372.avif",
+      "publicId": "uploads/thailand/package_1757139785372",
+      "width": 1174,
+      "height": 780,
+      "format": "avif",
+      "bytes": 242002
+    },
+    "/uploads/thailand/package_1757139795788.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082777/uploads/thailand/package_1757139795788.avif",
+      "publicId": "uploads/thailand/package_1757139795788",
+      "width": 1174,
+      "height": 780,
+      "format": "avif",
+      "bytes": 242002
+    },
+    "/uploads/thailand/package_1757062733991.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082777/uploads/thailand/package_1757062733991.avif",
+      "publicId": "uploads/thailand/package_1757062733991",
+      "width": 1174,
+      "height": 780,
+      "format": "avif",
+      "bytes": 242002
+    },
+    "/uploads/thailand/package_1757139785178.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082777/uploads/thailand/package_1757139785178.avif",
+      "publicId": "uploads/thailand/package_1757139785178",
+      "width": 1174,
+      "height": 780,
+      "format": "avif",
+      "bytes": 242002
+    },
+    "/uploads/thailand/package_1757062725862.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082777/uploads/thailand/package_1757062725862.avif",
+      "publicId": "uploads/thailand/package_1757062725862",
+      "width": 1174,
+      "height": 780,
+      "format": "avif",
+      "bytes": 242002
+    },
+    "/uploads/thailand/package_1757140538717.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082779/uploads/thailand/package_1757140538717.avif",
+      "publicId": "uploads/thailand/package_1757140538717",
+      "width": 1174,
+      "height": 780,
+      "format": "avif",
+      "bytes": 242002
+    },
+    "/uploads/thailand/package_1757139835010.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082779/uploads/thailand/package_1757139835010.avif",
+      "publicId": "uploads/thailand/package_1757139835010",
+      "width": 1174,
+      "height": 780,
+      "format": "avif",
+      "bytes": 242002
+    },
+    "/uploads/thailand/package_1757139834813.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082779/uploads/thailand/package_1757139834813.avif",
+      "publicId": "uploads/thailand/package_1757139834813",
+      "width": 1174,
+      "height": 780,
+      "format": "avif",
+      "bytes": 242002
+    },
+    "/uploads/thailand/package_1757140183450.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082779/uploads/thailand/package_1757140183450.avif",
+      "publicId": "uploads/thailand/package_1757140183450",
+      "width": 1174,
+      "height": 780,
+      "format": "avif",
+      "bytes": 242002
+    },
+    "/uploads/thailand/package_1757139796001.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082779/uploads/thailand/package_1757139796001.avif",
+      "publicId": "uploads/thailand/package_1757139796001",
+      "width": 1174,
+      "height": 780,
+      "format": "avif",
+      "bytes": 242002
+    },
+    "/uploads/thailand/package_1757140956459.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082781/uploads/thailand/package_1757140956459.jpg",
+      "publicId": "uploads/thailand/package_1757140956459",
+      "width": 736,
+      "height": 736,
+      "format": "jpg",
+      "bytes": 109364
+    },
+    "/uploads/thailand/package_1757140561599.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082781/uploads/thailand/package_1757140561599.avif",
+      "publicId": "uploads/thailand/package_1757140561599",
+      "width": 1174,
+      "height": 780,
+      "format": "avif",
+      "bytes": 242002
+    },
+    "/uploads/thailand/package_1757140538910.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082782/uploads/thailand/package_1757140538910.avif",
+      "publicId": "uploads/thailand/package_1757140538910",
+      "width": 1174,
+      "height": 780,
+      "format": "avif",
+      "bytes": 242002
+    },
+    "/uploads/thailand/package_1757140557999.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082782/uploads/thailand/package_1757140557999.jpg",
+      "publicId": "uploads/thailand/package_1757140557999",
+      "width": 736,
+      "height": 736,
+      "format": "jpg",
+      "bytes": 109364
+    },
+    "/uploads/thailand/package_1757140561258.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082782/uploads/thailand/package_1757140561258.avif",
+      "publicId": "uploads/thailand/package_1757140561258",
+      "width": 1174,
+      "height": 780,
+      "format": "avif",
+      "bytes": 242002
+    },
+    "/uploads/thailand/package_1757141720533.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082784/uploads/thailand/package_1757141720533.avif",
+      "publicId": "uploads/thailand/package_1757141720533",
+      "width": 1174,
+      "height": 780,
+      "format": "avif",
+      "bytes": 242002
+    },
+    "/uploads/thailand/package_1757141720752.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082784/uploads/thailand/package_1757141720752.avif",
+      "publicId": "uploads/thailand/package_1757141720752",
+      "width": 1174,
+      "height": 780,
+      "format": "avif",
+      "bytes": 242002
+    },
+    "/uploads/thailand/package_1757140993530.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082784/uploads/thailand/package_1757140993530.avif",
+      "publicId": "uploads/thailand/package_1757140993530",
+      "width": 1174,
+      "height": 780,
+      "format": "avif",
+      "bytes": 242002
+    },
+    "/uploads/thailand/package_1757141004864.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082784/uploads/thailand/package_1757141004864.avif",
+      "publicId": "uploads/thailand/package_1757141004864",
+      "width": 1174,
+      "height": 780,
+      "format": "avif",
+      "bytes": 242002
+    },
+    "/uploads/thailand/package_1757141413407.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082784/uploads/thailand/package_1757141413407.avif",
+      "publicId": "uploads/thailand/package_1757141413407",
+      "width": 1174,
+      "height": 780,
+      "format": "avif",
+      "bytes": 242002
+    },
+    "/uploads/thailand/package_1757141829936.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082786/uploads/thailand/package_1757141829936.avif",
+      "publicId": "uploads/thailand/package_1757141829936",
+      "width": 600,
+      "height": 338,
+      "format": "avif",
+      "bytes": 50375
+    },
+    "/uploads/thailand/package_1757141833086.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082786/uploads/thailand/package_1757141833086.avif",
+      "publicId": "uploads/thailand/package_1757141833086",
+      "width": 1174,
+      "height": 780,
+      "format": "avif",
+      "bytes": 242002
+    },
+    "/uploads/thailand/package_1757141847916.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082786/uploads/thailand/package_1757141847916.avif",
+      "publicId": "uploads/thailand/package_1757141847916",
+      "width": 1174,
+      "height": 780,
+      "format": "avif",
+      "bytes": 242002
+    },
+    "/uploads/thailand/package_1757141847636.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082786/uploads/thailand/package_1757141847636.avif",
+      "publicId": "uploads/thailand/package_1757141847636",
+      "width": 1174,
+      "height": 780,
+      "format": "avif",
+      "bytes": 242002
+    },
+    "/uploads/thailand/package_1757141832776.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082786/uploads/thailand/package_1757141832776.avif",
+      "publicId": "uploads/thailand/package_1757141832776",
+      "width": 1174,
+      "height": 780,
+      "format": "avif",
+      "bytes": 242002
+    },
+    "/uploads/thailand/package_1757142161878.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082788/uploads/thailand/package_1757142161878.avif",
+      "publicId": "uploads/thailand/package_1757142161878",
+      "width": 1174,
+      "height": 780,
+      "format": "avif",
+      "bytes": 242002
+    },
+    "/uploads/thailand/package_1757142161543.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082788/uploads/thailand/package_1757142161543.avif",
+      "publicId": "uploads/thailand/package_1757142161543",
+      "width": 1174,
+      "height": 780,
+      "format": "avif",
+      "bytes": 242002
+    },
+    "/uploads/thailand/package_1757142107043.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082788/uploads/thailand/package_1757142107043.avif",
+      "publicId": "uploads/thailand/package_1757142107043",
+      "width": 1174,
+      "height": 780,
+      "format": "avif",
+      "bytes": 242002
+    },
+    "/uploads/thailand/package_1757142151848.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082788/uploads/thailand/package_1757142151848.avif",
+      "publicId": "uploads/thailand/package_1757142151848",
+      "width": 1174,
+      "height": 780,
+      "format": "avif",
+      "bytes": 242002
+    },
+    "/uploads/thailand/package_1757142152042.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082789/uploads/thailand/package_1757142152042.avif",
+      "publicId": "uploads/thailand/package_1757142152042",
+      "width": 1174,
+      "height": 780,
+      "format": "avif",
+      "bytes": 242002
+    },
+    "/uploads/thailand/package_1757181492103.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082791/uploads/thailand/package_1757181492103.avif",
+      "publicId": "uploads/thailand/package_1757181492103",
+      "width": 1174,
+      "height": 780,
+      "format": "avif",
+      "bytes": 242002
+    },
+    "/uploads/thailand/package_1757147685285.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082791/uploads/thailand/package_1757147685285.avif",
+      "publicId": "uploads/thailand/package_1757147685285",
+      "width": 1174,
+      "height": 780,
+      "format": "avif",
+      "bytes": 242002
+    },
+    "/uploads/thailand/package_1757148105458.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082791/uploads/thailand/package_1757148105458.avif",
+      "publicId": "uploads/thailand/package_1757148105458",
+      "width": 1174,
+      "height": 780,
+      "format": "avif",
+      "bytes": 242002
+    },
+    "/uploads/thailand/package_1757147685111.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082791/uploads/thailand/package_1757147685111.avif",
+      "publicId": "uploads/thailand/package_1757147685111",
+      "width": 1174,
+      "height": 780,
+      "format": "avif",
+      "bytes": 242002
+    },
+    "/uploads/thailand/package_1757148105324.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082791/uploads/thailand/package_1757148105324.avif",
+      "publicId": "uploads/thailand/package_1757148105324",
+      "width": 1174,
+      "height": 780,
+      "format": "avif",
+      "bytes": 242002
+    },
+    "/uploads/thailand/package_1757709268361.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082793/uploads/thailand/package_1757709268361.jpg",
+      "publicId": "uploads/thailand/package_1757709268361",
+      "width": 736,
+      "height": 736,
+      "format": "jpg",
+      "bytes": 109364
+    },
+    "/uploads/thailand/package_1757708868924.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082793/uploads/thailand/package_1757708868924.jpg",
+      "publicId": "uploads/thailand/package_1757708868924",
+      "width": 736,
+      "height": 736,
+      "format": "jpg",
+      "bytes": 109364
+    },
+    "/uploads/thailand/package_1757181525820.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082793/uploads/thailand/package_1757181525820.jpg",
+      "publicId": "uploads/thailand/package_1757181525820",
+      "width": 736,
+      "height": 736,
+      "format": "jpg",
+      "bytes": 109364
+    },
+    "/uploads/thailand/package_1757181492290.avif": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082793/uploads/thailand/package_1757181492290.avif",
+      "publicId": "uploads/thailand/package_1757181492290",
+      "width": 1174,
+      "height": 780,
+      "format": "avif",
+      "bytes": 242002
+    },
+    "/uploads/vietnam/package_1757146729625.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082794/uploads/vietnam/package_1757146729625.jpg",
+      "publicId": "uploads/vietnam/package_1757146729625",
+      "width": 6000,
+      "height": 4000,
+      "format": "jpg",
+      "bytes": 2583060
+    },
+    "/uploads/vietnam/package_1757150774022.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082796/uploads/vietnam/package_1757150774022.jpg",
+      "publicId": "uploads/vietnam/package_1757150774022",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 336771
+    },
+    "/uploads/vietnam/package_1757181609335.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082796/uploads/vietnam/package_1757181609335.jpg",
+      "publicId": "uploads/vietnam/package_1757181609335",
+      "width": 736,
+      "height": 1104,
+      "format": "jpg",
+      "bytes": 147022
+    },
+    "/uploads/vietnam/package_1757150846238.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082796/uploads/vietnam/package_1757150846238.jpg",
+      "publicId": "uploads/vietnam/package_1757150846238",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 336771
+    },
+    "/uploads/vietnam/package_1757146915337.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082796/uploads/vietnam/package_1757146915337.jpg",
+      "publicId": "uploads/vietnam/package_1757146915337",
+      "width": 6000,
+      "height": 4000,
+      "format": "jpg",
+      "bytes": 2583060
+    },
+    "/uploads/vietnam/package_1757146806593.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082796/uploads/vietnam/package_1757146806593.jpg",
+      "publicId": "uploads/vietnam/package_1757146806593",
+      "width": 6000,
+      "height": 4000,
+      "format": "jpg",
+      "bytes": 2583060
+    },
+    "/uploads/vietnam/package_1757521196064.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082799/uploads/vietnam/package_1757521196064.jpg",
+      "publicId": "uploads/vietnam/package_1757521196064",
+      "width": 736,
+      "height": 1104,
+      "format": "jpg",
+      "bytes": 147022
+    },
+    "/uploads/vietnam/package_1757439425864.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082799/uploads/vietnam/package_1757439425864.jpg",
+      "publicId": "uploads/vietnam/package_1757439425864",
+      "width": 720,
+      "height": 1280,
+      "format": "jpg",
+      "bytes": 209524
+    },
+    "/uploads/vietnam/package_1757521284800.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082800/uploads/vietnam/package_1757521284800.jpg",
+      "publicId": "uploads/vietnam/package_1757521284800",
+      "width": 3984,
+      "height": 2656,
+      "format": "jpg",
+      "bytes": 1799178
+    },
+    "/uploads/vietnam/package_1757521267620.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082800/uploads/vietnam/package_1757521267620.jpg",
+      "publicId": "uploads/vietnam/package_1757521267620",
+      "width": 6000,
+      "height": 4000,
+      "format": "jpg",
+      "bytes": 2583060
+    },
+    "/uploads/vietnam/package_1757521300193.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082802/uploads/vietnam/package_1757521300193.jpg",
+      "publicId": "uploads/vietnam/package_1757521300193",
+      "width": 6830,
+      "height": 5110,
+      "format": "jpg",
+      "bytes": 5150520
+    },
+    "/uploads/vietnam/package_1757521321231.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082804/uploads/vietnam/package_1757521321231.jpg",
+      "publicId": "uploads/vietnam/package_1757521321231",
+      "width": 1280,
+      "height": 853,
+      "format": "jpg",
+      "bytes": 336771
+    },
+    "/uploads/vietnam/package_1757711340618.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082804/uploads/vietnam/package_1757711340618.jpg",
+      "publicId": "uploads/vietnam/package_1757711340618",
+      "width": 736,
+      "height": 1104,
+      "format": "jpg",
+      "bytes": 147022
+    },
+    "/uploads/vietnam/package_1757523257950.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082805/uploads/vietnam/package_1757523257950.jpg",
+      "publicId": "uploads/vietnam/package_1757523257950",
+      "width": 3984,
+      "height": 2656,
+      "format": "jpg",
+      "bytes": 1799178
+    },
+    "/uploads/vietnam/package_1757600391153.jpeg": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/image/upload/v1762082806/uploads/vietnam/package_1757600391153.jpg",
+      "publicId": "uploads/vietnam/package_1757600391153",
+      "width": 6000,
+      "height": 4000,
+      "format": "jpg",
+      "bytes": 3157781
+    },
+    "/videos/tripsee.mp4": {
+      "cloudinaryUrl": "https://res.cloudinary.com/dpknmji5i/video/upload/v1762082824/videos/tripsee.mp4",
+      "publicId": "videos/tripsee",
+      "width": 3840,
+      "height": 2160,
+      "format": "mp4",
+      "bytes": 53681292
+    }
+  }
+}

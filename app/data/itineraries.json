@@ -1,0 +1,96 @@
+[
+  {
+    "id": "bali-5night-4star",
+    "packageId": "bali-5night-4star",
+    "title": "Bali 5 Night 4 Star Itinerary",
+    "destination": "Bali",
+    "duration": "5 days",
+    "overview": "Discover the enchanting beauty of Bali with this comprehensive 5-night itinerary featuring cultural sites, natural wonders, and beach experiences.",
+    "hotelName": "Grand Bali Resort & Spa",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival in Bali",
+        "description": "Welcome to the Island of Gods! Arrive at Ngurah Rai International Airport and transfer to your hotel.",
+        "activities": [
+          "Airport pickup and transfer",
+          "Hotel check-in",
+          "Welcome dinner",
+          "Cultural performance"
+        ],
+        "meals": ["Dinner"],
+        "accommodation": "Grand Bali Resort & Spa"
+      },
+      {
+        "day": 2,
+        "title": "Temple Tour & Rice Terraces",
+        "description": "Explore Bali's spiritual side with visits to ancient temples and stunning rice terraces.",
+        "activities": [
+          "Visit Tanah Lot Temple",
+          "Explore Tegalalang Rice Terraces",
+          "Ubud Art Market",
+          "Traditional Balinese lunch"
+        ],
+        "meals": ["Breakfast", "Lunch"],
+        "accommodation": "Grand Bali Resort & Spa"
+      },
+      {
+        "day": 3,
+        "title": "Beach Day & Water Sports",
+        "description": "Enjoy a full day at one of Bali's most beautiful beaches with various water activities.",
+        "activities": [
+          "Nusa Dua Beach",
+          "Snorkeling session",
+          "Jet skiing",
+          "Beach volleyball"
+        ],
+        "meals": ["Breakfast", "Lunch"],
+        "accommodation": "Grand Bali Resort & Spa"
+      },
+      {
+        "day": 4,
+        "title": "Cultural Immersion",
+        "description": "Dive deep into Balinese culture with traditional experiences and local interactions.",
+        "activities": [
+          "Balinese cooking class",
+          "Traditional village visit",
+          "Temple blessing ceremony",
+          "Cultural dance show"
+        ],
+        "meals": ["Breakfast", "Lunch", "Dinner"],
+        "accommodation": "Grand Bali Resort & Spa"
+      },
+      {
+        "day": 5,
+        "title": "Departure",
+        "description": "Bid farewell to Bali with last-minute shopping and airport transfer.",
+        "activities": [
+          "Free time for shopping",
+          "Hotel check-out",
+          "Airport transfer",
+          "Departure"
+        ],
+        "meals": ["Breakfast"],
+        "accommodation": "None"
+      }
+    ],
+    "inclusions": [
+      "4-star hotel accommodation",
+      "Daily breakfast",
+      "Airport transfers",
+      "All sightseeing tours",
+      "Professional English-speaking guide",
+      "Entrance fees to monuments",
+      "Traditional Balinese lunch on day 2",
+      "Cultural performance tickets"
+    ],
+    "exclusions": [
+      "International flights",
+      "Personal expenses",
+      "Optional activities",
+      "Travel insurance",
+      "Visa fees",
+      "Tips and gratuities"
+    ]
+  }
+]

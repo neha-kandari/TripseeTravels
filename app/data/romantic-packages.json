@@ -1,0 +1,60 @@
+[
+  {
+    "id": "bali-romantic-honeymoon",
+    "title": "Bali Romantic Honeymoon Package",
+    "destination": "Bali",
+    "duration": "6 days",
+    "price": 75000,
+    "image": "/Destination/bali/Bali1.webp",
+    "description": "A perfect romantic getaway for couples with luxury accommodations and intimate experiences.",
+    "type": "Honeymoon",
+    "highlights": [
+      "Private beach dinners",
+      "Couple spa treatments",
+      "Sunset boat cruises",
+      "Romantic room decorations"
+    ],
+    "inclusions": [
+      "Luxury resort accommodation",
+      "All meals included",
+      "Private transfers",
+      "Couple activities",
+      "Romantic surprises"
+    ],
+    "exclusions": [
+      "International flights",
+      "Personal expenses",
+      "Optional activities",
+      "Travel insurance"
+    ]
+  },
+  {
+    "id": "maldives-romantic-escape",
+    "title": "Maldives Romantic Escape",
+    "destination": "Maldives",
+    "duration": "5 days",
+    "price": 95000,
+    "image": "/Destination/Maldives/Maldives1.jpg",
+    "description": "An exclusive romantic experience in the pristine waters of the Maldives.",
+    "type": "Honeymoon",
+    "highlights": [
+      "Overwater villa accommodation",
+      "Private beach access",
+      "Underwater dining",
+      "Couple's massage"
+    ],
+    "inclusions": [
+      "Overwater villa",
+      "All meals included",
+      "Seaplane transfers",
+      "Private butler service",
+      "Romantic experiences"
+    ],
+    "exclusions": [
+      "International flights",
+      "Personal expenses",
+      "Optional activities",
+      "Travel insurance"
+    ]
+  }
+]

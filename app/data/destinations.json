@@ -1,0 +1,58 @@
+[
+  {
+    "id": "bali",
+    "name": "Bali",
+    "country": "Indonesia",
+    "image": "/Destination/Bali.webp",
+    "description": "A tropical paradise known for its stunning beaches, ancient temples, and vibrant culture."
+  },
+  {
+    "id": "dubai",
+    "name": "Dubai",
+    "country": "UAE",
+    "image": "/Destination/Dubai.webp",
+    "description": "A modern metropolis in the desert, famous for its luxury shopping, ultramodern architecture, and lively nightlife."
+  },
+  {
+    "id": "thailand",
+    "name": "Thailand",
+    "country": "Thailand",
+    "image": "/Destination/Thailand.webp",
+    "description": "A Southeast Asian country known for its tropical beaches, opulent royal palaces, ancient ruins, and ornate temples."
+  },
+  {
+    "id": "singapore",
+    "name": "Singapore",
+    "country": "Singapore",
+    "image": "/Destination/Singapore.webp",
+    "description": "A modern city-state and island country in Southeast Asia, known for its multicultural population and clean environment."
+  },
+  {
+    "id": "malaysia",
+    "name": "Malaysia",
+    "country": "Malaysia",
+    "image": "/Destination/Malasia.webp",
+    "description": "A Southeast Asian country occupying parts of the Malay Peninsula and the island of Borneo."
+  },
+  {
+    "id": "maldives",
+    "name": "Maldives",
+    "country": "Maldives",
+    "image": "/Destination/Maldives.webp",
+    "description": "A tropical nation in the Indian Ocean composed of 26 ring-shaped atolls, which are made up of more than 1,000 coral islands."
+  },
+  {
+    "id": "andaman",
+    "name": "Andaman",
+    "country": "India",
+    "image": "/Destination/andaman.webp",
+    "description": "A group of islands in the Bay of Bengal, known for their pristine beaches, coral reefs, and tropical rainforests."
+  },
+  {
+    "id": "vietnam",
+    "name": "Vietnam",
+    "country": "Vietnam",
+    "image": "/Destination/Vietnam.webp",
+    "description": "A Southeast Asian country known for its beaches, rivers, Buddhist pagodas, and bustling cities."
+  }
+]

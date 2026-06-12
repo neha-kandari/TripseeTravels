@@ -1,0 +1,15 @@
+# ─── Nixpacks build config for Coolify (non-Docker deployments) ───────────────
+# Coolify reads this file when it uses Nixpacks instead of Docker.
+# If Coolify detects the Dockerfile it uses Docker instead — this file is ignored.
+#
+# KEY RULE: do NOT set DOCKER_BUILD or NEXT_OUTPUT in Coolify's env vars panel.
+# Those are only set inside the Dockerfile for Docker builds.
+
+[phases.install]
+cmds = ["npm ci --legacy-peer-deps"]
+
+[phases.build]
+cmds = ["npm run build"]
+
+[start]
+cmd = "npm start"

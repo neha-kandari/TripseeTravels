@@ -1,0 +1,49 @@
+# Git
+.git
+.gitignore
+.gitattributes
+
+# Next.js build output (rebuilt in Docker)
+.next
+out
+
+# Node modules (reinstalled in Docker)
+node_modules
+
+# Environment files (injected via Coolify env vars)
+.env
+.env.*
+!.env.example
+
+# Dev/local configs
+*.local
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode
+.idea
+*.swp
+*.swo
+
+# Temporary scripts
+fix-*.js
+check-*.js
+scripts/compress-images.js
+
+# Test/CI
+coverage
+.nyc_output
+lighthouse-report.html
+
+# README / docs (not needed in container)
+README.md
+CHANGELOG.md

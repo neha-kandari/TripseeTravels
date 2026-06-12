@@ -1,0 +1,264 @@
+
+> tripsee@0.1.0 prebuild
+> npm run build-check && npm run setup-uploads
+
+
+> tripsee@0.1.0 build-check
+> node scripts/build-check.js
+
+🚀 Starting Tripsee Build Check...
+
+📁 Checking required files...
+✅ next.config.ts
+✅ tsconfig.json
+✅ tailwind.config.js
+✅ postcss.config.js
+✅ package.json
+✅ app/layout.tsx
+✅ app/page.tsx
+
+🖼️  Checking public assets...
+✅ public/Destination (26 files)
+✅ public/uploads (14 files)
+✅ public/videos (1 files)
+✅ public/Feedback (23 files)
+
+📦 Checking package.json scripts...
+✅ dev: next dev
+✅ build: next build
+✅ start: next start
+✅ lint: next lint
+
+🔧 Checking critical dependencies...
+✅ next: ^16.2.4
+✅ react: ^18.3.1
+✅ react-dom: ^18.3.1
+✅ typescript: ^5.7
+✅ tailwindcss: ^3.3.3
+✅ framer-motion: ^12.23.12
+✅ swiper: ^11.2.10
+✅ mongodb: ^6.19.0
+✅ mongoose: ^8.18.1
+
+🎯 Build check completed successfully!
+
+📋 Next steps:
+1. Run: npm install
+2. Run: npm run build
+3. Run: npm start
+
+✨ Happy coding!
+
+> tripsee@0.1.0 setup-uploads
+> node scripts/setup-uploads.js
+
+Setting up uploads directory structure...
+✅ Uploads directory already exists
+✅ uploads/bali directory already exists
+✅ uploads/thailand directory already exists
+✅ uploads/vietnam directory already exists
+✅ uploads/singapore directory already exists
+✅ uploads/malaysia directory already exists
+✅ uploads/dubai directory already exists
+✅ uploads/andaman directory already exists
+✅ uploads/maldives directory already exists
+🎉 Uploads directory setup complete!
+📁 Directory structure:
+public/uploads/
+  └── bali/
+  └── thailand/
+  └── vietnam/
+  └── singapore/
+  └── malaysia/
+  └── dubai/
+  └── andaman/
+  └── maldives/
+
+> tripsee@0.1.0 build
+> next build
+
+▲ Next.js 16.2.4 (Turbopack)
+- Environments: .env.local
+
+  Creating an optimized production build ...
+✓ Compiled successfully in 6.7s
+  Running TypeScript ...
+  Finished TypeScript in 11.0s ...
+  Collecting page data using 15 workers ...
+  Generating static pages using 15 workers (0/99) ...
+  Generating static pages using 15 workers (24/99) 
+  Generating static pages using 15 workers (49/99) 
+Current cityNames state: [
+  'Singapore City',
+  'Sentosa',
+  'Marina Bay',
+  'Chinatown',
+  'Little India',
+  'Orchard Road',
+  'Clarke Quay'
+]
+  Generating static pages using 15 workers (74/99) 
+✓ Generating static pages using 15 workers (99/99) in 961ms
+  Finalizing page optimization ...
+
+Route (app)
+┌ ○ /
+├ ○ /_not-found
+├ ○ /about
+├ ○ /admin
+├ ○ /admin/city-filters
+├ ○ /admin/dashboard
+├ ○ /admin/destinations
+├ ○ /admin/destinations/andaman
+├ ○ /admin/destinations/andaman/itineraries
+├ ƒ /admin/destinations/andaman/itineraries/edit/[id]
+├ ○ /admin/destinations/andaman/itineraries/new
+├ ƒ /admin/destinations/andaman/packages/edit/[id]
+├ ○ /admin/destinations/andaman/packages/new
+├ ○ /admin/destinations/bali
+├ ○ /admin/destinations/bali/itineraries
+├ ƒ /admin/destinations/bali/itineraries/edit/[id]
+├ ○ /admin/destinations/bali/itineraries/edit/bali-4star-properties
+├ ○ /admin/destinations/bali/itineraries/edit/bali-6night-premium
+├ ○ /admin/destinations/bali/itineraries/edit/bali-premium-romantic
+├ ○ /admin/destinations/bali/itineraries/new
+├ ƒ /admin/destinations/bali/packages/[id]
+├ ƒ /admin/destinations/bali/packages/edit/[id]
+├ ○ /admin/destinations/bali/packages/new
+├ ○ /admin/destinations/dubai
+├ ○ /admin/destinations/dubai/itineraries
+├ ƒ /admin/destinations/dubai/itineraries/edit/[id]
+├ ○ /admin/destinations/dubai/itineraries/new
+├ ƒ /admin/destinations/dubai/packages/edit/[id]
+├ ○ /admin/destinations/dubai/packages/new
+├ ○ /admin/destinations/malaysia
+├ ○ /admin/destinations/malaysia/itineraries
+├ ƒ /admin/destinations/malaysia/itineraries/edit/[id]
+├ ○ /admin/destinations/malaysia/itineraries/new
+├ ƒ /admin/destinations/malaysia/packages/edit/[id]
+├ ○ /admin/destinations/malaysia/packages/new
+├ ○ /admin/destinations/maldives
+├ ○ /admin/destinations/maldives/itineraries
+├ ƒ /admin/destinations/maldives/itineraries/edit/[id]
+├ ○ /admin/destinations/maldives/itineraries/new
+├ ƒ /admin/destinations/maldives/packages/edit/[id]
+├ ○ /admin/destinations/maldives/packages/new
+├ ○ /admin/destinations/singapore
+├ ○ /admin/destinations/singapore/itineraries
+├ ƒ /admin/destinations/singapore/itineraries/edit/[id]
+├ ○ /admin/destinations/singapore/itineraries/new
+├ ƒ /admin/destinations/singapore/packages/edit/[id]
+├ ○ /admin/destinations/singapore/packages/new
+├ ○ /admin/destinations/thailand
+├ ○ /admin/destinations/thailand/itineraries
+├ ƒ /admin/destinations/thailand/itineraries/edit/[id]
+├ ○ /admin/destinations/thailand/itineraries/new
+├ ƒ /admin/destinations/thailand/packages/edit/[id]
+├ ○ /admin/destinations/thailand/packages/new
+├ ○ /admin/destinations/vietnam
+├ ○ /admin/destinations/vietnam/itineraries
+├ ƒ /admin/destinations/vietnam/itineraries/edit/[id]
+├ ○ /admin/destinations/vietnam/itineraries/new
+├ ƒ /admin/destinations/vietnam/packages/edit/[id]
+├ ○ /admin/destinations/vietnam/packages/new
+├ ○ /admin/home-content
+├ ○ /admin/login
+├ ○ /admin/romantic-itineraries
+├ ƒ /admin/romantic-itineraries/[id]/edit
+├ ○ /admin/romantic-packages
+├ ƒ /admin/romantic-packages/[id]
+├ ○ /admin/romantic-packages/new
+├ ○ /admin/test-firebase
+├ ƒ /api/admin/city-filters
+├ ƒ /api/admin/destinations
+├ ƒ /api/admin/destinations/[id]
+├ ƒ /api/admin/destinations/[id]/itineraries
+├ ƒ /api/admin/destinations/[id]/packages
+├ ƒ /api/admin/destinations/[id]/packages/[packageId]
+├ ƒ /api/admin/destinations/andaman/itineraries
+├ ƒ /api/admin/destinations/andaman/itineraries/[id]
+├ ƒ /api/admin/destinations/andaman/packages
+├ ƒ /api/admin/destinations/andaman/packages/[id]
+├ ƒ /api/admin/destinations/bali/itineraries
+├ ƒ /api/admin/destinations/bali/itineraries/[id]
+├ ƒ /api/admin/destinations/bali/packages
+├ ƒ /api/admin/destinations/bali/packages/[id]
+├ ƒ /api/admin/destinations/dubai/itineraries
+├ ƒ /api/admin/destinations/dubai/itineraries/[id]
+├ ƒ /api/admin/destinations/dubai/packages
+├ ƒ /api/admin/destinations/dubai/packages/[id]
+├ ƒ /api/admin/destinations/malaysia/itineraries
+├ ƒ /api/admin/destinations/malaysia/itineraries/[id]
+├ ƒ /api/admin/destinations/malaysia/packages
+├ ƒ /api/admin/destinations/malaysia/packages/[id]
+├ ƒ /api/admin/destinations/maldives/itineraries
+├ ƒ /api/admin/destinations/maldives/itineraries/[id]
+├ ƒ /api/admin/destinations/maldives/packages
+├ ƒ /api/admin/destinations/maldives/packages/[id]
+├ ƒ /api/admin/destinations/singapore/itineraries
+├ ƒ /api/admin/destinations/singapore/itineraries/[id]
+├ ƒ /api/admin/destinations/singapore/packages
+├ ƒ /api/admin/destinations/singapore/packages/[id]
+├ ƒ /api/admin/destinations/thailand/itineraries
+├ ƒ /api/admin/destinations/thailand/itineraries/[id]
+├ ƒ /api/admin/destinations/thailand/packages
+├ ƒ /api/admin/destinations/thailand/packages/[id]
+├ ƒ /api/admin/destinations/vietnam/itineraries
+├ ƒ /api/admin/destinations/vietnam/itineraries/[id]
+├ ƒ /api/admin/destinations/vietnam/packages
+├ ƒ /api/admin/destinations/vietnam/packages/[packageId]
+├ ƒ /api/admin/home-content
+├ ƒ /api/admin/itineraries
+├ ƒ /api/admin/itineraries/[id]
+├ ƒ /api/admin/packages
+├ ƒ /api/admin/packages/[id]
+├ ƒ /api/admin/romantic-itineraries
+├ ƒ /api/admin/romantic-itineraries/[id]
+├ ƒ /api/admin/romantic-packages
+├ ƒ /api/admin/romantic-packages/[id]
+├ ƒ /api/admin/upload-image
+├ ƒ /api/city-filters
+├ ƒ /api/google-reviews
+├ ƒ /api/home-content
+├ ƒ /api/images/[imageId]
+├ ƒ /api/romantic-itineraries
+├ ƒ /api/romantic-itineraries/[id]
+├ ƒ /api/romantic-packages
+├ ƒ /api/romantic-packages/[id]
+├ ○ /contact
+├ ○ /destination/andaman
+├ ○ /destination/bali
+├ ○ /destination/dubai
+├ ○ /destination/malaysia
+├ ○ /destination/maldives
+├ ○ /destination/singapore
+├ ○ /destination/thailand
+├ ○ /destination/vietnam
+├ ƒ /itinerary/andaman/dynamic/[packageId]
+├ ○ /itinerary/bali-5night-4star
+├ ○ /itinerary/bali-6night-basic
+├ ○ /itinerary/bali-6night-honeymoon
+├ ○ /itinerary/bali-6night-premium
+├ ○ /itinerary/bali-7night
+├ ○ /itinerary/bali-7night-basic
+├ ○ /itinerary/bali-8night-gili
+├ ○ /itinerary/bali-premium
+├ ƒ /itinerary/bali/dynamic/[packageId]
+├ ƒ /itinerary/dubai/dynamic/[packageId]
+├ ƒ /itinerary/malaysia/dynamic/[packageId]
+├ ƒ /itinerary/maldives/dynamic/[packageId]
+├ ƒ /itinerary/romantic/[packageId]
+├ ƒ /itinerary/singapore/dynamic/[packageId]
+├ ƒ /itinerary/thailand/dynamic/[packageId]
+├ ƒ /itinerary/vietnam/dynamic/[packageId]
+├ ○ /reviews
+├ ○ /romantic-hideaway
+├ ○ /terms-and-conditions
+└ ○ /test-styling
+
+
+ƒ Proxy (Middleware)
+
+○  (Static)   prerendered as static content
+ƒ  (Dynamic)  server-rendered on demand
+

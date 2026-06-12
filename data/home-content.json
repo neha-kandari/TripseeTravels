@@ -1,0 +1,848 @@
+{
+  "topDestinations": [
+    {
+      "name": "Bali",
+      "description": "Island Paradise",
+      "image": "/Destination/Bali.jpeg",
+      "path": "/destination/bali"
+    },
+    {
+      "name": "Vietnam",
+      "description": "Timeless Charm",
+      "image": "/Destination/Vietnam.jpeg",
+      "path": "/destination/vietnam"
+    },
+    {
+      "name": "Singapore",
+      "description": "Modern Marvel",
+      "image": "/Destination/Singapore.jpeg",
+      "path": "/destination/singapore"
+    },
+    {
+      "name": "Thailand",
+      "description": "Land of Smiles",
+      "image": "/Destination/Thailand.jpeg",
+      "path": "/destination/thailand"
+    },
+    {
+      "name": "Malaysia",
+      "description": "Cultural Fusion",
+      "image": "/Destination/Malasia.jpeg",
+      "path": "/destination/malaysia"
+    },
+    {
+      "name": "Dubai",
+      "description": "Desert Dreams",
+      "image": "/Destination/Dubai.jpeg",
+      "path": "/destination/dubai"
+    },
+    {
+      "name": "Maldives",
+      "description": "Ocean Serenity",
+      "image": "/Destination/Maldives.jpeg",
+      "path": "/destination/maldives"
+    },
+    {
+      "name": "Andaman",
+      "description": "Tropical Bliss",
+      "image": "/Destination/andaman.jpeg",
+      "path": "/destination/andamans"
+    }
+  ],
+  "popularPackages": {
+    "destinations": [
+      {
+        "name": "BALI",
+        "image": "/Destination/Bali.jpeg",
+        "packages": [
+          {
+            "id": "bali-premium",
+            "image": "/Destination/BaliHero/Pura Ulun Danu.jpg",
+            "days": "5 Nights 6 Days",
+            "title": "PREMIUM PACKAGE - Luxury Villas with Private Pool",
+            "location": "Umalas",
+            "price": "₹90,500/-",
+            "type": "Premium",
+            "hotelRating": 5,
+            "features": [
+              "Private Pool Villa",
+              "Floating Breakfast",
+              "Spa",
+              "All Activities"
+            ],
+            "highlights": "Swiss-Belvillas Umalas • Swan Paradise • Watersports • Nusa Penida Tour"
+          },
+          {
+            "id": "bali-premium-2",
+            "image": "/Destination/BaliHero/Kelingking Beach.jpg",
+            "days": "5 Nights 6 Days",
+            "title": "4 Star Properties Package - Golden Tulip & Desa Swan",
+            "location": "Jineng & Ubud",
+            "price": "₹88,220/-",
+            "type": "Premium",
+            "hotelRating": 4,
+            "features": [
+              "4 Star Hotels",
+              "Private Pool Villa",
+              "All Transfers",
+              "Activities"
+            ],
+            "highlights": "Golden Tulip Jineng • Desa Swan Villa • Watersports • Temple Tours"
+          },
+          {
+            "id": "bali-premium-3",
+            "image": "/Destination/BaliHero/Tirta Empul Temple.jpg",
+            "days": "6 Nights 7 Days",
+            "title": "PREMIUM OPTION - 5 Star Luxury with Nusa Penida",
+            "location": "Ubud, Nusa Penida & Seminyak",
+            "price": "₹1,03,500/-",
+            "type": "Premium",
+            "hotelRating": 5,
+            "features": [
+              "5 Star Resort",
+              "Island Hopping",
+              "ATV Ride",
+              "Safari"
+            ],
+            "highlights": "Desa Swan Villas • Semabu Hills • Monolocale Luxury Resort • Bali Safari"
+          }
+        ],
+        "topDestinations": [
+          {
+            "name": "Tanah Lot Temple",
+            "description": "Iconic temple on the sea",
+            "image": "/Destination/Bali_images/Tanah Lot Temple.avif"
+          },
+          {
+            "name": "Nusa Penida",
+            "description": "Island paradise adventure",
+            "image": "/Destination/Bali_images/Nusa Penida.avif"
+          },
+          {
+            "name": "Seminyak Beach",
+            "description": "Luxury beach destination",
+            "image": "/Destination/Bali_images/Seminyak Beach.jpg"
+          },
+          {
+            "name": "Kelingking Beach",
+            "description": "Dramatic cliff formations",
+            "image": "/Destination/Bali_images/Kelingking Beach.jpg"
+          },
+          {
+            "name": "Gates of Heaven",
+            "description": "Lempuyang Temple entrance",
+            "image": "/Destination/Bali_images/Gates of Heaven.jpg"
+          },
+          {
+            "name": "Pura Penataran Agung",
+            "description": "Besakih Mother Temple",
+            "image": "/Destination/Bali_images/Pura Penataran Agung.jpg"
+          },
+          {
+            "name": "Tirta Empul Temple",
+            "description": "Sacred water purification",
+            "image": "/Destination/Bali_images/Tirta Empul Temple.jpg"
+          },
+          {
+            "name": "Pura Ulun Danu",
+            "description": "Lake temple serenity",
+            "image": "/Destination/Bali_images/Pura Ulun Danu.jpg"
+          }
+        ]
+      },
+      {
+        "name": "VIETNAM",
+        "image": "/Destination/Vietnam/haloang bay.avif",
+        "packages": [
+          {
+            "id": "vietnam-classic-1",
+            "image": "/Destination/veitnamHero/Halong Bay.jpg",
+            "days": "6 Nights 7 Days",
+            "title": "CLASSIC VIETNAM - Hanoi, Ha Long & Ho Chi Minh",
+            "location": "North & South Vietnam",
+            "price": "₹75,000/-",
+            "type": "Classic",
+            "hotelRating": 4,
+            "features": [
+              "4 Star Hotels",
+              "Ha Long Cruise",
+              "City Tours",
+              "Local Cuisine"
+            ],
+            "highlights": "Ha Long Bay cruise • Cu Chi Tunnels • Hoi An lanterns • Mekong Delta"
+          },
+          {
+            "id": "vietnam-cultural-1",
+            "image": "/Destination/veitnamHero/Hoi An Lantern.jpg",
+            "days": "5 Nights 6 Days",
+            "title": "CULTURAL VIETNAM - Heritage & Traditions",
+            "location": "Hanoi, Hoi An & Hue",
+            "price": "₹65,000/-",
+            "type": "Cultural",
+            "hotelRating": 4,
+            "features": [
+              "Heritage Sites",
+              "Cultural Tours",
+              "Local Experiences",
+              "Traditional Shows"
+            ],
+            "highlights": "Imperial City • Ancient temples • Cooking classes • Lantern festival"
+          },
+          {
+            "id": "vietnam-quick-1",
+            "image": "/Destination/veitnamHero/Golden Bridge.jpg",
+            "days": "4 Nights 5 Days",
+            "title": "QUICK VIETNAM - Highlights Tour",
+            "location": "Hanoi & Ha Long Bay",
+            "price": "₹48,000/-",
+            "type": "Quick",
+            "hotelRating": 3,
+            "features": [
+              "Budget Hotels",
+              "Ha Long Cruise",
+              "Street Food",
+              "City Walking"
+            ],
+            "highlights": "Old Quarter • Water puppets • Ha Long overnight • Local markets"
+          }
+        ],
+        "topDestinations": [
+          {
+            "name": "Ha Long Bay",
+            "description": "Limestone islands and caves",
+            "image": "/Destination/Vietnam/haloang bay.avif"
+          },
+          {
+            "name": "Hoi An",
+            "description": "Ancient trading port",
+            "image": "/Destination/Vietnam/photo-1533497394934-b33cd9695ba9.avif"
+          },
+          {
+            "name": "Mekong Delta",
+            "description": "Floating markets",
+            "image": "/Destination/Vietnam/mekong delta.avif"
+          },
+          {
+            "name": "Ninh Binh",
+            "description": "Terraced rice fields",
+            "image": "/Destination/Vietnam/ninh binh.avif"
+          },
+          {
+            "name": "Hoan Kiem Lake",
+            "description": "Historic city center",
+            "image": "/Destination/Vietnam/hoan kiem lake.avif"
+          },
+          {
+            "name": "Golden Bridge",
+            "description": "Iconic architectural marvel",
+            "image": "/Destination/Vietnam/golden bridge.avif"
+          },
+          {
+            "name": "Ngoc Son Temple",
+            "description": "Sacred temple on the lake",
+            "image": "/Destination/Vietnam/ngoc son temple.avif"
+          },
+          {
+            "name": "Phu Quoc Beaches",
+            "description": "Pristine island paradise",
+            "image": "/Destination/Vietnam/phu quoc beaches.avif"
+          }
+        ]
+      },
+      {
+        "name": "SINGAPORE",
+        "image": "/Destination/Singapore.jpeg",
+        "packages": [
+          {
+            "id": "singapore-city-1",
+            "image": "/Destination/singaporeHero/image1.jpg",
+            "days": "4 Nights 5 Days",
+            "title": "SINGAPORE CITY EXPLORER - Modern Marvels",
+            "location": "Marina Bay & City Center",
+            "price": "₹75,000/-",
+            "type": "City Tour",
+            "hotelRating": 4,
+            "features": [
+              "City Tours",
+              "Marina Bay Sands",
+              "Gardens by the Bay",
+              "Shopping"
+            ],
+            "highlights": "Marina Bay Sands • Gardens by the Bay • Orchard Road • Sentosa Island"
+          },
+          {
+            "id": "singapore-family-1",
+            "image": "/Destination/singaporeHero/image2.jpg",
+            "days": "5 Nights 6 Days",
+            "title": "FAMILY SINGAPORE - Universal Studios & Fun",
+            "location": "Sentosa Island & City",
+            "price": "₹85,000/-",
+            "type": "Family",
+            "hotelRating": 4,
+            "features": [
+              "Universal Studios",
+              "Adventure Cove",
+              "S.E.A. Aquarium",
+              "Family Hotels"
+            ],
+            "highlights": "Universal Studios • Adventure Cove • S.E.A. Aquarium • Family activities"
+          },
+          {
+            "id": "singapore-luxury-1",
+            "image": "/Destination/singaporeHero/image3.jpg",
+            "days": "6 Nights 7 Days",
+            "title": "LUXURY SINGAPORE - Premium Experience",
+            "location": "Marina Bay & Luxury Districts",
+            "price": "₹1,25,000/-",
+            "type": "Luxury",
+            "hotelRating": 5,
+            "features": [
+              "5 Star Hotels",
+              "Private Tours",
+              "Fine Dining",
+              "Luxury Spa"
+            ],
+            "highlights": "Marina Bay Sands • Raffles Hotel • Fine dining • Luxury experiences"
+          }
+        ],
+        "topDestinations": [
+          {
+            "name": "Marina Bay Sands",
+            "description": "Iconic hotel and skyline",
+            "image": "/Destination/Singapore/marina bay sands.avif"
+          },
+          {
+            "name": "Supertree Grove",
+            "description": "Gardens by the Bay",
+            "image": "/Destination/Singapore/supertree.avif"
+          },
+          {
+            "name": "Universal Studios",
+            "description": "Sentosa Island adventure",
+            "image": "/Destination/Singapore/universal studios.avif"
+          },
+          {
+            "name": "Chinatown",
+            "description": "Cultural heritage district",
+            "image": "/Destination/Singapore/Chinatown.jpg"
+          },
+          {
+            "name": "Singapore Flyer",
+            "description": "Giant observation wheel",
+            "image": "/Destination/Singapore/singapore flyer.avif"
+          },
+          {
+            "name": "Helix Bridge",
+            "description": "Iconic pedestrian bridge",
+            "image": "/Destination/Singapore/helix brigde.avif"
+          },
+          {
+            "name": "Cloud Forest",
+            "description": "Misty mountain ecosystem",
+            "image": "/Destination/Singapore/cloud forest.avif"
+          },
+          {
+            "name": "Art Science Museum",
+            "description": "Marina Bay waterfront",
+            "image": "/Destination/Singapore/art science museum and marina bay stands.avif"
+          }
+        ]
+      },
+      {
+        "name": "THAILAND",
+        "image": "/Destination/Thailand.jpeg",
+        "packages": [
+          {
+            "id": "thailand-bangkok-1",
+            "image": "/Destination/ThailandHero/image1.jpg",
+            "days": "5 Nights 6 Days",
+            "title": "BANGKOK & PHUKET - City & Beach Combo",
+            "location": "Bangkok & Phuket",
+            "price": "₹65,000/-",
+            "type": "Classic",
+            "hotelRating": 4,
+            "features": [
+              "City Tours",
+              "Beach Time",
+              "Temple Visits",
+              "Island Hopping"
+            ],
+            "highlights": "Grand Palace • Wat Phra Kaew • Patong Beach • Phi Phi Islands"
+          },
+          {
+            "id": "thailand-cultural-1",
+            "image": "/Destination/ThailandHero/image2.jpg",
+            "days": "6 Nights 7 Days",
+            "title": "CULTURAL THAILAND - Temples & Traditions",
+            "location": "Bangkok, Ayutthaya & Chiang Mai",
+            "price": "₹72,000/-",
+            "type": "Cultural",
+            "hotelRating": 4,
+            "features": [
+              "Temple Tours",
+              "Cultural Shows",
+              "Local Markets",
+              "Traditional Crafts"
+            ],
+            "highlights": "Wat Arun • Ayutthaya ruins • Doi Suthep • Night Bazaar"
+          },
+          {
+            "id": "thailand-luxury-1",
+            "image": "/Destination/ThailandHero/image3.jpg",
+            "days": "7 Nights 8 Days",
+            "title": "LUXURY THAILAND - Premium Experience",
+            "location": "Bangkok, Phuket & Koh Samui",
+            "price": "₹95,000/-",
+            "type": "Luxury",
+            "hotelRating": 5,
+            "features": [
+              "5 Star Hotels",
+              "Private Tours",
+              "Luxury Spa",
+              "Fine Dining"
+            ],
+            "highlights": "Luxury resorts • Private beaches • Premium spa • Exclusive experiences"
+          }
+        ],
+        "topDestinations": [
+          {
+            "name": "Grand Palace",
+            "description": "Royal palace complex",
+            "image": "/Destination/Thailand/grand palace.avif"
+          },
+          {
+            "name": "Wat Pho",
+            "description": "Reclining Buddha temple",
+            "image": "/Destination/Thailand/wat pho.avif"
+          },
+          {
+            "name": "Wat Arun",
+            "description": "Temple of Dawn",
+            "image": "/Destination/Thailand/wat arun temple.avif"
+          },
+          {
+            "name": "Doi Suthep",
+            "description": "Mountain temple in Chiang Mai",
+            "image": "/Destination/Thailand/doi suthep temple.avif"
+          },
+          {
+            "name": "Phi Phi Islands",
+            "description": "Crystal clear waters",
+            "image": "/Destination/Thailand/phi phi islands.avif"
+          },
+          {
+            "name": "Ayutthaya",
+            "description": "Ancient capital ruins",
+            "image": "/Destination/Thailand/ayutthaya.avif"
+          },
+          {
+            "name": "Chiang Mai Night Bazaar",
+            "description": "Cultural market experience",
+            "image": "/Destination/Thailand/chiang mai night bazaar.avif"
+          },
+          {
+            "name": "Railay Beach",
+            "description": "Rock climbing paradise",
+            "image": "/Destination/Thailand/railay beach.avif"
+          }
+        ]
+      },
+      {
+        "name": "MALAYSIA",
+        "image": "/Destination/Malasia.jpeg",
+        "packages": [
+          {
+            "id": "malaysia-kl-1",
+            "image": "/Destination/MalaysiaHero/Petronas Twin Towers (Kuala Lumpur) – Iconic twin skyscrapers..jpg",
+            "days": "5 Nights 6 Days",
+            "title": "KUALA LUMPUR & LANGKAWI - City & Island",
+            "location": "KL City & Langkawi Island",
+            "price": "₹65,000/-",
+            "type": "City & Beach",
+            "hotelRating": 4,
+            "features": [
+              "Petronas Towers",
+              "Langkawi Island",
+              "City Tours",
+              "Beach Time"
+            ],
+            "highlights": "Petronas Towers • Langkawi beaches • City shopping • Island activities"
+          },
+          {
+            "id": "malaysia-cultural-1",
+            "image": "/Destination/MalaysiaHero/Tioman Island – A paradise for divers..jpg",
+            "days": "6 Nights 7 Days",
+            "title": "CULTURAL MALAYSIA - Heritage & Traditions",
+            "location": "Penang, Malacca & KL",
+            "price": "₹75,000/-",
+            "type": "Cultural",
+            "hotelRating": 4,
+            "features": [
+              "Heritage Sites",
+              "Cultural Tours",
+              "Local Markets",
+              "Traditional Food"
+            ],
+            "highlights": "Penang heritage • Malacca history • KL culture • Local experiences"
+          },
+          {
+            "id": "malaysia-nature-1",
+            "image": "/Destination/MalaysiaHero/Manukan Island (Sabah).jpg",
+            "days": "5 Nights 6 Days",
+            "title": "NATURE MALAYSIA - Cameron Highlands & KL",
+            "location": "Cameron Highlands & Kuala Lumpur",
+            "price": "₹70,000/-",
+            "type": "Nature",
+            "hotelRating": 4,
+            "features": [
+              "Tea Plantations",
+              "Mountain Views",
+              "City Tours",
+              "Nature Walks"
+            ],
+            "highlights": "Cameron Highlands • Tea plantations • Mountain trekking • KL city"
+          }
+        ],
+        "topDestinations": [
+          {
+            "name": "Petronas Twin Towers",
+            "description": "Iconic twin skyscrapers in KL",
+            "image": "/Destination/Malaysia/Petronas Twin Towers (Kuala Lumpur) – Iconic twin skyscrapers..jpg"
+          },
+          {
+            "name": "Batu Caves",
+            "description": "Hindu temple complex in Selangor",
+            "image": "/Destination/Malaysia/Batu Caves (Selangor).jpg"
+          },
+          {
+            "name": "Cameron Highlands",
+            "description": "Tea plantations and cool climate",
+            "image": "/Destination/Malaysia/Cameron Highlands.webp"
+          },
+          {
+            "name": "Malacca",
+            "description": "UNESCO heritage site",
+            "image": "/Destination/Malaysia/Malacca (Melaka).jpg"
+          },
+          {
+            "name": "Tioman Island",
+            "description": "Paradise for divers",
+            "image": "/Destination/Malaysia/Tioman Island – A paradise for divers..jpg"
+          },
+          {
+            "name": "Kapas Island",
+            "description": "Terengganu island beauty",
+            "image": "/Destination/Malaysia/Kapas Island (Terengganu).jpg"
+          },
+          {
+            "name": "Manukan Island",
+            "description": "Sabah island paradise",
+            "image": "/Destination/Malaysia/Manukan Island (Sabah).jpg"
+          },
+          {
+            "name": "Ipoh",
+            "description": "Colonial charm and cave temples",
+            "image": "/Destination/Malaysia/Ipoh (Perak) – Colonial charm, cave temples, and street art.jpg"
+          }
+        ]
+      },
+      {
+        "name": "DUBAI",
+        "image": "/Destination/Dubai.jpeg",
+        "packages": [
+          {
+            "id": "dubai-luxury-1",
+            "image": "/Destination/DubaiHero/Burj Khalifa.jpg",
+            "days": "5 Nights 6 Days",
+            "title": "LUXURY DUBAI - Premium Experience",
+            "location": "Downtown Dubai & Palm Jumeirah",
+            "price": "₹95,000/-",
+            "type": "Luxury",
+            "hotelRating": 5,
+            "features": [
+              "Burj Khalifa",
+              "Palm Jumeirah",
+              "Luxury Hotels",
+              "Premium Tours"
+            ],
+            "highlights": "Burj Khalifa • Palm Jumeirah • Luxury hotels • Premium experiences"
+          },
+          {
+            "id": "dubai-adventure-1",
+            "image": "/Destination/DubaiHero/Desert Safari.jpg",
+            "days": "6 Nights 7 Days",
+            "title": "ADVENTURE DUBAI - Desert & City",
+            "location": "Dubai City & Desert",
+            "price": "₹85,000/-",
+            "type": "Adventure",
+            "hotelRating": 4,
+            "features": [
+              "Desert Safari",
+              "City Tours",
+              "Adventure Sports",
+              "Cultural Tours"
+            ],
+            "highlights": "Desert safari • City exploration • Adventure sports • Cultural experiences"
+          },
+          {
+            "id": "dubai-family-1",
+            "image": "/Destination/DubaiHero/Dubai Fountain.jpg",
+            "days": "7 Nights 8 Days",
+            "title": "FAMILY DUBAI - Fun for Everyone",
+            "location": "Dubai Parks & City",
+            "price": "₹1,05,000/-",
+            "type": "Family",
+            "hotelRating": 4,
+            "features": [
+              "Dubai Parks",
+              "Aquarium",
+              "Shopping",
+              "Family Activities"
+            ],
+            "highlights": "Dubai Parks • Dubai Aquarium • Shopping malls • Family fun"
+          }
+        ],
+        "topDestinations": [
+          {
+            "name": "Burj Khalifa",
+            "description": "World's tallest building",
+            "image": "/Destination/Dubai_images/Burj Khalifa.jpg"
+          },
+          {
+            "name": "Burj Al Arab Jumeirah",
+            "description": "Luxury sail-shaped hotel",
+            "image": "/Destination/Dubai_images/Burj AI Arab Jumeirah.jpg"
+          },
+          {
+            "name": "Dubai Mall",
+            "description": "Shopping paradise",
+            "image": "/Destination/Dubai_images/Dubai Mall.webp"
+          },
+          {
+            "name": "Desert Safari",
+            "description": "Dune bashing adventure",
+            "image": "/Destination/Dubai_images/Desert Safari.jpg"
+          },
+          {
+            "name": "Dubai Frame",
+            "description": "Golden frame monument",
+            "image": "/Destination/Dubai_images/Dubai Frame.jpg"
+          },
+          {
+            "name": "Dubai Skyline",
+            "description": "Iconic city panorama",
+            "image": "/Destination/Dubai_images/Dubai Skyline.jpg"
+          },
+          {
+            "name": "Dubai Fountain",
+            "description": "World's largest choreographed fountain",
+            "image": "/Destination/Dubai_images/Dubai Fountain.jpg"
+          },
+          {
+            "name": "Ain Dubai",
+            "description": "World's largest observation wheel",
+            "image": "/Destination/Dubai_images/Ain Dubai.jpg"
+          }
+        ]
+      },
+      {
+        "name": "MALDIVES",
+        "image": "/Destination/Maldives.jpeg",
+        "packages": [
+          {
+            "id": "maldives-luxury-1",
+            "image": "/Destination/MaldivesHero/Hanifaru Bay.jpg",
+            "days": "4 Nights 5 Days",
+            "title": "LUXURY MALDIVES - Overwater Villa Experience",
+            "location": "Male & Resort Islands",
+            "price": "₹1,25,000/-",
+            "type": "Luxury",
+            "hotelRating": 5,
+            "features": [
+              "Overwater Villa",
+              "All Inclusive",
+              "Water Sports",
+              "Spa"
+            ],
+            "highlights": "Private overwater villa • All meals included • Water sports • Luxury spa"
+          },
+          {
+            "id": "maldives-romantic-1",
+            "image": "/Destination/MaldivesHero/Malé Atoll.jpg",
+            "days": "5 Nights 6 Days",
+            "title": "ROMANTIC MALDIVES - Honeymoon Special",
+            "location": "Private Island Resort",
+            "price": "₹1,45,000/-",
+            "type": "Honeymoon",
+            "hotelRating": 5,
+            "features": [
+              "Private Island",
+              "Honeymoon Suite",
+              "Romantic Dinners",
+              "Couple Spa"
+            ],
+            "highlights": "Private island access • Honeymoon suite • Romantic dinners • Couple spa"
+          },
+          {
+            "id": "maldives-adventure-1",
+            "image": "/Destination/MaldivesHero/Gulhi Falhu.jpg",
+            "days": "6 Nights 7 Days",
+            "title": "ADVENTURE MALDIVES - Water Sports & Diving",
+            "location": "Multiple Islands",
+            "price": "₹1,35,000/-",
+            "type": "Adventure",
+            "hotelRating": 4,
+            "features": [
+              "Water Sports",
+              "Scuba Diving",
+              "Island Hopping",
+              "Adventure Activities"
+            ],
+            "highlights": "Scuba diving • Water sports • Island hopping • Adventure activities"
+          }
+        ],
+        "topDestinations": [
+          {
+            "name": "Conrad Maldives Rangali Island",
+            "description": "Luxury overwater resort",
+            "image": "/Destination/Maldives/Conrad Maldives Rangali Island.jpg"
+          },
+          {
+            "name": "Gulhi Falhu",
+            "description": "Pristine island paradise",
+            "image": "/Destination/MaldivesHero/Gulhi Falhu.jpg"
+          },
+          {
+            "name": "Meedhoo, Raa Atoll",
+            "description": "Remote island beauty",
+            "image": "/Destination/Maldives/Meedhoo, Raa Atoll,.jpg"
+          },
+          {
+            "name": "Hanifaru Bay",
+            "description": "Baa Atoll whale shark haven",
+            "image": "/Destination/MaldivesHero/Hanifaru Bay.jpg"
+          },
+          {
+            "name": "North Malé Atoll",
+            "description": "Crystal clear waters",
+            "image": "/Destination/Maldives/North Malé Atoll.webp"
+          },
+          {
+            "name": "Ari Atoll",
+            "description": "Diving and snorkeling paradise",
+            "image": "/Destination/Maldives/Ari Atoll –.jpg"
+          },
+          {
+            "name": "Baa Atoll",
+            "description": "UNESCO Biosphere Reserve",
+            "image": "/Destination/Maldives/Baa Atoll (UNESCO Biosphere Reserve).jpg"
+          },
+          {
+            "name": "Malé Atoll",
+            "description": "Kaafu Atoll capital region",
+            "image": "/Destination/MaldivesHero/Malé Atoll.jpg"
+          }
+        ]
+      },
+      {
+        "name": "ANDAMANS",
+        "image": "/Destination/andaman.jpeg",
+        "packages": [
+          {
+            "id": "andaman-havelock-1",
+            "image": "/Destination/AndamanHero/image1.jpg",
+            "days": "5 Nights 6 Days",
+            "title": "HAVELOCK ISLAND - Beach Paradise",
+            "location": "Havelock Island & Port Blair",
+            "price": "₹55,000/-",
+            "type": "Beach",
+            "hotelRating": 4,
+            "features": [
+              "Radhanagar Beach",
+              "Water Sports",
+              "Island Tours",
+              "Beach Resorts"
+            ],
+            "highlights": "Radhanagar Beach • Water sports • Island tours • Beach resorts"
+          },
+          {
+            "id": "andaman-cultural-1",
+            "image": "/Destination/AndamanHero/image2.jpg",
+            "days": "6 Nights 7 Days",
+            "title": "CULTURAL ANDAMAN - History & Nature",
+            "location": "Port Blair & Neil Island",
+            "price": "₹65,000/-",
+            "type": "Cultural",
+            "hotelRating": 4,
+            "features": [
+              "Cellular Jail",
+              "Historical Tours",
+              "Neil Island",
+              "Cultural Shows"
+            ],
+            "highlights": "Cellular Jail • Historical tours • Neil Island • Cultural shows"
+          },
+          {
+            "id": "andaman-adventure-1",
+            "image": "/Destination/AndamanHero/image3.jpg",
+            "days": "7 Nights 8 Days",
+            "title": "ADVENTURE ANDAMAN - Water Sports & Trekking",
+            "location": "Multiple Islands",
+            "price": "₹75,000/-",
+            "type": "Adventure",
+            "hotelRating": 4,
+            "features": [
+              "Scuba Diving",
+              "Trekking",
+              "Island Hopping",
+              "Adventure Sports"
+            ],
+            "highlights": "Scuba diving • Trekking • Island hopping • Adventure sports"
+          }
+        ],
+        "topDestinations": [
+          {
+            "name": "Havelock Island",
+            "description": "Swaraj Dweep paradise",
+            "image": "/Destination/Andamans/Havelock Island (Swaraj Dweep).webp"
+          },
+          {
+            "name": "Neil Island",
+            "description": "Shaheed Dweep beauty",
+            "image": "/Destination/Andamans/Neil Island (Shaheed Dweep).jpg"
+          },
+          {
+            "name": "Baratang Island",
+            "description": "Limestone caves and mud volcanoes",
+            "image": "/Destination/Andamans/Baratang Island.webp"
+          },
+          {
+            "name": "Ross Island",
+            "description": "Netaji Subhash Chandra Bose Island",
+            "image": "/Destination/Andamans/Ross Island (Netaji Subhash Chandra Bose Island).jpg"
+          },
+          {
+            "name": "North Bay Island",
+            "description": "Water sports and coral reefs",
+            "image": "/Destination/Andamans/North Bay Island.jpg"
+          },
+          {
+            "name": "Cinque Island",
+            "description": "Pristine island getaway",
+            "image": "/Destination/Andamans/Cinque Island.jpg"
+          },
+          {
+            "name": "Cellular Jail",
+            "description": "Port Blair historical landmark",
+            "image": "/Destination/Andamans/Cellular Jail (Port Blair).jpeg"
+          },
+          {
+            "name": "Samudrika Marine Museum",
+            "description": "Marine life exhibition",
+            "image": "/Destination/Andamans/Samudrika Marine Museum (Port Blair).jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

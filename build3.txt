@@ -1,0 +1,99 @@
+
+> tripsee@0.1.0 prebuild
+> npm run build-check && npm run setup-uploads
+
+
+> tripsee@0.1.0 build-check
+> node scripts/build-check.js
+
+🚀 Starting Tripsee Build Check...
+
+📁 Checking required files...
+✅ next.config.ts
+✅ tsconfig.json
+✅ tailwind.config.js
+✅ postcss.config.js
+✅ package.json
+✅ app/layout.tsx
+✅ app/page.tsx
+
+🖼️  Checking public assets...
+✅ public/Destination (26 files)
+✅ public/uploads (14 files)
+✅ public/videos (1 files)
+✅ public/Feedback (23 files)
+
+📦 Checking package.json scripts...
+✅ dev: next dev
+✅ build: next build
+✅ start: next start
+✅ lint: next lint
+
+🔧 Checking critical dependencies...
+✅ next: ^16.2.4
+✅ react: ^18.3.1
+✅ react-dom: ^18.3.1
+✅ typescript: ^5.7
+✅ tailwindcss: ^3.3.3
+✅ framer-motion: ^12.23.12
+✅ swiper: ^11.2.10
+✅ mongodb: ^6.19.0
+✅ mongoose: ^8.18.1
+
+🎯 Build check completed successfully!
+
+📋 Next steps:
+1. Run: npm install
+2. Run: npm run build
+3. Run: npm start
+
+✨ Happy coding!
+
+> tripsee@0.1.0 setup-uploads
+> node scripts/setup-uploads.js
+
+Setting up uploads directory structure...
+✅ Uploads directory already exists
+✅ uploads/bali directory already exists
+✅ uploads/thailand directory already exists
+✅ uploads/vietnam directory already exists
+✅ uploads/singapore directory already exists
+✅ uploads/malaysia directory already exists
+✅ uploads/dubai directory already exists
+✅ uploads/andaman directory already exists
+✅ uploads/maldives directory already exists
+🎉 Uploads directory setup complete!
+📁 Directory structure:
+public/uploads/
+  └── bali/
+  └── thailand/
+  └── vietnam/
+  └── singapore/
+  └── malaysia/
+  └── dubai/
+  └── andaman/
+  └── maldives/
+
+> tripsee@0.1.0 build
+> next build
+
+▲ Next.js 16.2.4 (Turbopack)
+- Environments: .env.local
+
+  Creating an optimized production build ...
+✓ Compiled successfully in 6.1s
+  Running TypeScript ...
+Failed to type check.
+
+./app/api/admin/destinations/andaman/itineraries/[id]/route.ts:13:39
+Type error: This expression is not callable.
+  Each member of the union type '{ <ResultDoc = Document<unknown, {}, IItinerary, {}, {}> & IItinerary & Required<{ _id: ObjectId; }> & { __v: number; }>(filter: ObjectId | Query<...> | FilterQuery<...>, projection: ProjectionType<...>, options: QueryOptions<...> & ... 1 more ... & Abortable): Query<...>; <ResultDoc = Document<...> & ... 2 more ......' has signatures, but none of those signatures are compatible with each other.
+
+  [90m11 |[0m     [36mawait[0m connectDB();
+  [90m12 |[0m     
+[31m[1m>[0m [90m13 |[0m     [36mconst[0m itinerary = [36mawait[0m [33mItinerary[0m.findOne({ 
+  [90m   |[0m                                       [31m[1m^[0m
+  [90m14 |[0m       _id: params.id, 
+  [90m15 |[0m       destination: [32m'andaman'[0m 
+  [90m16 |[0m     });
+Next.js build worker exited with code: 1 and signal: null
